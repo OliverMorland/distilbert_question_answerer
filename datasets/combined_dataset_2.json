@@ -1,0 +1,3986 @@
+[
+    {
+        "context": "ct. 5: 12500(a) vc drive w/o license san diego co. sher dept.  formed a traffic stop o was determined to be",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "vc drive w/o license"
+            ],
+            "answer_start": [
+                16
+            ]
+        }
+    },
+    {
+        "context": "failure to stop after accident resulting in damage to an attended vehicle/ circuit court of sullivan county, sullivan, in; case no. 77c01-0504-cm-00034 the information, on april 1nvolved in an accident that rhe defendant failed to stop t was arrested by the sullivathe incident report, on aprilnty. according to brittany hd by a female driver, later tructed her to pull into a rehe defendant again rearende(debby white) and phone 16",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "failure to stop after accident resulting in damage to an attended vehicle"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "driving while  intoxicated 2nd;  county court at law  no. 1, hidalgo, tx;  docket no.: cr-06- 10133-a  nt was represented by  rt records reflect that on motor vehicle in a public ng lot, was then and ther mal use of defendant's m or alcohol, a drug, a co these substances into the",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "driving while  intoxicated"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "ct. 1: 812.014(2)(c),  grand theft 3rd (fel.);  ct. 2: 817.60, poss.  stolen credit card  (fel.);  ct. 3: 817.61,  fraudulent use credit  card;  ct. 4: 817.64, receipt  of goods by fraud;  ct. 5: 817.481(3)(a),  obtain property by  fraud credit card.  fort lauderdale police  department",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "fort lauderdale police  department"
+            ],
+            "answer_start": [
+                252
+            ]
+        }
+    },
+    {
+        "context": "ct. 2: improper entry  by alien  (misdemeanor)/  united states. district  court, district of  arizona, phoenix;  docket no.: 2:13-mj- 016394fm-1  nt was represented by coun ed. according to felony com n or about may 15, 2021, at  nt to be a citizen of mexic as previously removed janu",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "united states. district  court, district of  arizona, phoenix"
+            ],
+            "answer_start": [
+                49
+            ]
+        }
+    },
+    {
+        "context": "underage possession of alcohol/  fin davidson county  general sessions  court, nashville, tn;  docket no.: n433552  t waived counsel. court record d in possession of an alcoho hat the defendant was under the",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "underage possession of alcohol"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "ct. 1: felon in  possession of firearm  (fel.) *  us marshals (ms)  tion is documented on the d n was able to be found in thi",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "us marshals (ms)"
+            ],
+            "answer_start": [
+                50
+            ]
+        }
+    },
+    {
+        "context": "496(a) pc: receiving  stolen property  (fel.)/ los angeles  superior court;  8",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "los angeles  superior court"
+            ],
+            "answer_start": [
+                47
+            ]
+        }
+    },
+    {
+        "context": "theft of property (m)/ cameron county cou at law 3, brownsville tx;  docket no.: 08-ccr- 4383-c  o the judgment, the de a of guilty or nolo conte eges the defendant faile 009, and october 2009,  court-ordered financial  report reflects that on j e department were dispa while on scene, a loss pr the defendant, into the o he witnessed the defend move the tag, and place i d he observed the defen e item and exited the sto scorted her inside, and l e bag consisted of a pin alue), and a pink blouse  d in the bag totaled $114",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "theft of property"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "robbery, 1st  degree,  cc-2011-1400,  mobile county circuit  court, mobile, al  t was represented by coun theft of property, to-wit:  race chisolm and/or terry h use of force against the per wilson, with intent to co the property, while the sa deadly weapon or dangerou",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "mobile county circuit  court, mobile, al"
+            ],
+            "answer_start": [
+                38
+            ]
+        }
+    },
+    {
+        "context": "4) no/expired  registration plates",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "no/expired  registration plates"
+            ],
+            "answer_start": [
+                3
+            ]
+        }
+    },
+    {
+        "context": "1)misdemeanor  driving under the  influence of alcohol  2) misdemeanor  driving under the  influence of controlled  substance  3) misdemeanor  driving under the",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "NONE"
+            ],
+            "answer_start": [
+                -1
+            ]
+        }
+    },
+    {
+        "context": "operating motor vehicle with.08 of 1% alcohol or more in blood nassau county 1st district court nassau, nj docket no: 13752/92 ances for this case are not ava9",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "operating motor vehicle with.08 of 1% alcohol or more in blood"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "evading arrest  detention  323-100814-j14  323rd judicial court  tarrant county  fort worth, tx  g d m this offense are described in",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "323rd judicial court  tarrant county  fort worth, tx"
+            ],
+            "answer_start": [
+                43
+            ]
+        }
+    },
+    {
+        "context": "convicted felon in  possession of firearms 2:20-cr-136-z(08)  northern district of  texas  amarillo, texas  t was represented by co t at the defendant's reside baggies, consistent with",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "convicted felon in  possession of firearms"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "ct. 1: trafficking in  marijuana (felony),  ct. 2: possession of  methamphetamine  (felony);  gwinnett county  superior court,  lawrenceville, ga;  case no. 11-b-3320-7",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "gwinnett county  superior court,  lawrenceville, ga"
+            ],
+            "answer_start": [
+                94
+            ]
+        }
+    },
+    {
+        "context": "ct. 1) burglary of a  vehicle  (misdemeanor);  webb county court at  law no. 1;  laredo, texas;  docket no.:  2004crb000323-l1  nt was represented by coun on or about january 24, 2004 consent of douglas clark r cle, to-wit: an automobile o he defendant's guilty plea to",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "webb county court at  law no. 1;  laredo, texas"
+            ],
+            "answer_start": [
+                47
+            ]
+        }
+    },
+    {
+        "context": "5)no  operator's/moped  license",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "no  operator's/moped  license"
+            ],
+            "answer_start": [
+                2
+            ]
+        }
+    },
+    {
+        "context": "ct. 1: theft of property  ct. 2: commercial  burglary/  pulaski county circuit  court, little rock, ar;  docket no.: cr 19- 4623  t was represented by counse other arrest, the defendant w mitted burglarizing dent wiz 9 jeep cherokee belonging",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "pulaski county circuit  court, little rock, ar"
+            ],
+            "answer_start": [
+                56
+            ]
+        }
+    },
+    {
+        "context": "2)no insurance (m);  municipal court,  kansas city, mo;  case nos.: 15033346 & 150333476",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "no insurance"
+            ],
+            "answer_start": [
+                2
+            ]
+        }
+    },
+    {
+        "context": "throwing a deadly  missile  broward county  sheriff's office,  broward county, fl  14",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "broward county  sheriff's office,  broward county, fl"
+            ],
+            "answer_start": [
+                28
+            ]
+        }
+    },
+    {
+        "context": "drug abuse: marijuana/middletown  $5 municipal court,  middletown, oh;  docket no.:  crb0300516  esentation is unknown. the ci re unavailable.",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "drug abuse: marijuana"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "possess controlled  substance (felony)/  fresno county  superior court, fresn ca; docket no.:  f08907513  the fresno county p parole search at a known ountered the defendant.  parole, and initially he a admitted he was lying h side fresno bulldog g n possession of methamp n of a controlled substanc on was supported by onl he was represented by an o supervision: the cdcr adjustment to supervisi supervision are not kno utomated criminal histo",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "possess controlled  substance"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "manufacture/deliv of a controlled  substance penalty  group 1 >= 4g < 2 [t.h.s.c. 481.112 24th  victoria coun district court,  victoria, tx;  docket no.:  981017512a  was represented by department's specia information which  r forcibly making en ney, and kendrick r ack cocaine were loc lded $605.00 in u.s a crack cocaine cook r. riggins subsequen victoria county sh bstance with intent t",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "manufacture/deliv of a controlled  substance"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "ct. 1: 853.7 pc, ft after written prom",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "ft after written prom"
+            ],
+            "answer_start": [
+                17
+            ]
+        }
+    },
+    {
+        "context": "cts. 1-2: false statements  and writings, concealment  of facts, and fraudulent  documents in matters  within jurisdiction of state  or political subdivision  (felonies);  gwinnett county superior  court, lawrenceville, ga;  case no. 13-b-4340-7  dant, identified as ivan gonzale ense are not available. the  by the ncic, reflects that the  nnett county sheriffÂ’s office arges (referenced in other cri or said offense were issued an to the indictment, on septe y, the defendant, did knowin document, knowing the same t or entry, to-wit: representing h or a driverÂ’s license. count 1  on september 19, 2008.",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "gwinnett county superior  court, lawrenceville, ga"
+            ],
+            "answer_start": [
+                172
+            ]
+        }
+    },
+    {
+        "context": "6) failure of non- owner operator to  maintain required  insurance, first  offense/  fayette county distri court, lexington, ky docket no.: 22-f- 04675  the uniform citation, t der the influence of alco hicle and fled behind 9 the defendant had wate erage on his breath. the he defendant was opera e defendant did not hav",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "failure of non- owner operator to  maintain required  insurance"
+            ],
+            "answer_start": [
+                3
+            ]
+        }
+    },
+    {
+        "context": "especially aggravated  robbery/  marshall county  criminal court,  lewisburg, tn;  docket no.: 15679  nt was represented by cou urglary, which was dismisse entered a vehicle and struc fendant took $30 cash, two ceived medical treatment as adjustment  tÂ’s prior institutional adjust e department of correction as a kitchen helper, tutor,  ommercial cleaner. the defe (2007), tutor certification ( management (2008-twice an , thinking for a change ( ommunities (substance abu 012). the defendant was ide lords security threat group.4 t had the following disciplin",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "marshall county  criminal court,  lewisburg, tn"
+            ],
+            "answer_start": [
+                33
+            ]
+        }
+    },
+    {
+        "context": "theft/  jasper county circuit  court, newton, il;  docket no.:  1997-cf-58  the information, on septem control over property belo value in excess of $300.  t's adjustment to supervision",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "jasper county circuit  court, newton, il"
+            ],
+            "answer_start": [
+                8
+            ]
+        }
+    },
+    {
+        "context": "4) operating a motor  vehicle under the  influence of  alcohol/drugs, first  offense",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "operating a motor  vehicle under the  influence of  alcohol/drugs\n\n6) no  operator's/moped  license/  scott county district  court, georgetown,  ky;  docket no.: 19-m-69 the uniform citation, an wo separate callers advis traveling at erratic spee . upon arrival, the offic while the officer was fol ntain his lane of travel was weaving between lin nearly sideswipe a vehi tiated the emergency lig e shoulder and began thr f the roadway. the offic ndow at separate times. a seat belt.  t traveled approximately stopping. the officer loc it was open, cool to th r admitted he discarded  le. he also admitted tha officer located two empt \nANSWER:\nno  operator's/moped  license"
+            ],
+            "answer_start": [
+                -1
+            ]
+        }
+    },
+    {
+        "context": "count 1, operating a  motor vehicle without  a license, class c  misdemeanor/  lake station city  court, lake station,  in;  docket no.:  45h061905cm00083  he probable cause affidavit s not wearing a seat belt. u not have a driver's license. t iolation, infraction, was dis 10",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "lake station city  court, lake station,  in"
+            ],
+            "answer_start": [
+                79
+            ]
+        }
+    },
+    {
+        "context": "burglary of a building 208th district court,  houston, tx;  docket no.: 0855543 defendant was represen rds indicate parish broke ss. the owner of the c s, armed himself and  ndant inside the busine ed and arrested parish.",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "burglary of a building"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "no valid  6",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "NONE"
+            ],
+            "answer_start": [
+                -1
+            ]
+        }
+    },
+    {
+        "context": "l  driving while  suspended/revoked  (m);  clay county  circuit court,  liberty, mo;  case no.:  11cy-cr00601  charge of driving wi",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "driving while  suspended/revoked"
+            ],
+            "answer_start": [
+                3
+            ]
+        }
+    },
+    {
+        "context": "1)assault- second  degree (misdemeano",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "assault- second  degree"
+            ],
+            "answer_start": [
+                2
+            ]
+        }
+    },
+    {
+        "context": "possession of a  controlled substance (misdemeanor)  superior court,  hartford, ct;  docket no.: h14h- cr19-0732976-s  the hartford police  rved a black chevrole affic control signal at  e stop was conducted. mmediately observed f the vehicle, and a s operator was identifie  was asked to step out ers noticed a small am of mr. morrison s pe roin. officers also lo tory computation  convictions above res minal history score i rt a, a criminal histor al conduct  rges",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "possession of a  controlled substance"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "ct. 1: 11377(a) h&s,  poss. cs (fel.).  san diego co. sheriff's  dept.",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "san diego co. sheriff's  dept."
+            ],
+            "answer_start": [
+                40
+            ]
+        }
+    },
+    {
+        "context": "theft of property  greater than or equal  $50 but less than $50 80341  county court at law  no. 2  potter county, texas",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "theft of property  greater than or equal  $50 but less than $50"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "criminal contempt of domestic violence  protective order;  new castle county  family court,  wilmington, de;  case no.: 170301395 o the new castle county otection from abuse or e james t. vaughn cor ugust 12, 2016, was ord as served the pfa on au 3, 2017, mr. alfaro was  wilmington, delaware.  g, mr. alfaro was orde ndergo an evaluation for",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "criminal contempt of domestic violence  protective order"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "ct. 1: 647(b) pc,  disorderly conduct  (misd.).  los angeles, ca, pd",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "los angeles, ca, pd"
+            ],
+            "answer_start": [
+                49
+            ]
+        }
+    },
+    {
+        "context": "assault;  dawson county cour lexington, ne;  docket no.:  cr18030000700  presentation is unknown rmation has been reque been received.",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "assault"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "no driver's license  (m);  circuit court,  cape girardeau  county, mo;  docket no.:  08so-cr00733  t knowingly waived righ  confirm the convictio ended (m). according to nty, missouri sheriff's o ouri and observed a spe as identified as darrell  alid driver's license as h license might be susp nse was suspended and h",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "no driver's license"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "controlled dangerous  substance: possess  with intent to  distribute- narcotics/  circuit court of  maryland for baltimore  city, baltimore, md;  docket no.: 09 ye ye su suzo sc t was represented by counsel. a 018, an officer was dispatched t had traveled up a one-way stre e the defendant was being tre aggie with 16 small bags of sus l cap of suspected heroin from a license. the defendant was no broken legs, a broken jaw, and",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "controlled dangerous  substance: possess  with intent to  distribute- narcotics"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "felon in possession o a weapon (felony)/  176th  district court,  harris county, tx;  cause no.: 1766161  nt was represented by co 2022, an officer with hp dant due to having expi e any identification an the defendant then ve he officer ran the defen elon in possession of a f cated. a search of the de ded glock 27 .40 calibe was found in the back sea tory computation  minal history score is 11 criminal history score of",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "felon in possession o a weapon"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "ct. 3: 817.61,  fraudulent use cre card;",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "fraudulent use cre card"
+            ],
+            "answer_start": [
+                16
+            ]
+        }
+    },
+    {
+        "context": "regulated firearm  illegal possession/  circuit court of md  for prince george's  county, upper  marlboro, md;  docket no.:  ct171375x  t was represented by cou lice observed a silver t ucted a traffic stop at  hing the vehicle, officer cle. the defendant and t was conducted. while s rated serial number, alon he defendant was the dri",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "regulated firearm  illegal possession"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "possession with intent to inhale/  sen harris county court at  jai law no. 15, houston,  tx;  docket no.: 1505050  t was represented by counsel.  ents indicated the defendant pos int in a manner designed to affe uce a condition of intoxication",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "possession with intent to inhale"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "out of place",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "NONE"
+            ],
+            "answer_start": [
+                -1
+            ]
+        }
+    },
+    {
+        "context": "ct. 1. 11379 h&s,  transp. cs;  ct. 2.: 11378 h&s,  poss. cs for sale  (fel.).  san diego co. sheriff's  dept.  o the plea the defendan mine intending to sell it.Â”",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "san diego co. sheriff's  dept."
+            ],
+            "answer_start": [
+                80
+            ]
+        }
+    },
+    {
+        "context": "cts. 1 & 3: 11377(a)  h&s, poss. cs (misd.);  ct. 2: 11364 h&s,  poss. cs paraphernalia  (misd.);  ct. 4: 4140 bp, poss.  hypodermic needle.",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "NONE"
+            ],
+            "answer_start": [
+                -1
+            ]
+        }
+    },
+    {
+        "context": "count 2, illegal  conveyance of drugs  of abuse onto the  grounds of a detention  facility, felony/  montgomery county  common pleas court,  dayton, oh;  docket no.: 2012-cr- 150  ourt documents, on january  ndant and determined he wa  while seated in the patrol v chicago and his prior narc he booking process, officers oat pocket. the defendant w ess than 5 grams, felony, w",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "montgomery county  common pleas court,  dayton, oh"
+            ],
+            "answer_start": [
+                101
+            ]
+        }
+    },
+    {
+        "context": "1) driving under the  influence  8",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "NONE"
+            ],
+            "answer_start": [
+                -1
+            ]
+        }
+    },
+    {
+        "context": "disorderly conduct/  goshen village coun court, goshen, ny;  docket no.: 2107002 police reports, the defe rlos j. gonzalez, and jarl e arriving, they abandon led $4,179.00 on the pa he trunk of the vehicle, o th suspected marijuana. a nearby area. sena was eased with a court date.  officers they \"ripped of 5 pounds of marijuana.  what they had done and  t was originally charged y to the downgraded cha tory computation   convictions above result  t committed the instan r robbery; therefore, two minal history score is t rt a, a criminal history s rges   s   le history  tained by the new york  e, number 531660681, i",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "disorderly conduct"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "operating motor vehicle 0.10 of 1% alcohol/ nassau county first district court, hempstead, ny; docket no.: 11258/96 08sereesentation is unknown. on apad police department (hpdnew york. the hpd conducted ant, which determined that he wuence of alcohol. 5",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "operating motor vehicle 0.10 of 1% alcohol"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "unlawful possession of a controlled substance with the intent to deliver, to-wit: cocaine 4 grams f-0940895 dallas county criminal district court 4 dallas, tx 0gya00m0st0s1,",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "unlawful possession of a controlled substance with the intent to deliver, to-wit: cocaine 4 grams"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "strangulation (f);",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "strangulation"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "ct. 1: 812.014(2)(c) grand theft 3rd (fe",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "grand theft"
+            ],
+            "answer_start": [
+                21
+            ]
+        }
+    },
+    {
+        "context": "manufacture/delivery  of a controlled  substance (count 2);  sangamon county  circuit court,  springfield, il;  docket no.: 2004-cf-02 sen id co sa ill ca$3 t was represented by counsel.  he information charged that  e offense of possession of met",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "manufacture/delivery  of a controlled  substance"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "no driver's license  (m);  circuit court, cape  girardeau count, mo docket no.:  03cr735377  t knowingly waived righ court records, on january erated a motor vehicle o 's license. police records",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "no driver's license"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "possession of  cannabis  coconut creek police  department,  coconut creek, fl  tances of the defendant's a ords confirmed the dis pertaining to bond.  16",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "coconut creek police  department,  coconut creek, fl"
+            ],
+            "answer_start": [
+                25
+            ]
+        }
+    },
+    {
+        "context": "possession with int to sell (felony)  superior court,  hartford, ct;",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "possession with int to sell"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "ct. 1: 11550(a) h& use/under influenc cs;",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "h& use/under influenc cs"
+            ],
+            "answer_start": [
+                16
+            ]
+        }
+    },
+    {
+        "context": "ct. 1: 11377(a) h&s,  poss cs;  ct. 2: 4149 bp: poss.  hypodermic needle;  ct. 3: 11378 h&s,  poss. cs for sale  (fel.).  san diego co. sheriff's  dept.",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "san diego co. sheriff's  dept."
+            ],
+            "answer_start": [
+                122
+            ]
+        }
+    },
+    {
+        "context": "manslaughter/  maricopa county  superior court,  phoenix, az;  docket no.: cr1999- 018401  t was represented by c d christopher jones appr ictims and acted as a loo , causing his death. info ndicate that the defend ms over a lengthy period ment, informed that the h fellow gang members.  t provided the following i was walking down the  uck. my friend said he n at he needed to do, but i  and heard the shots. i gu jack the guys and i didn adjustment: while inca duties: food service, p -skill), laundry porter, gr ad approximately 37 ru nduct, promoting prison ing positive/refusing to s anufacturing a weapon, f tory computation   convictions above result nt committed the instan fore, two points are adde",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "manslaughter"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "(ct. 1 ): fleeing or  attempting to elude a  police officer  (ct. 2): participation in  methamphetamine  manufacturing  (ct. 3): theft/  richland county  circuit court, olney,  il; docket no.:  2006-cf-190  t was represented by counse 2",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "richland county  circuit court, olney,  il"
+            ],
+            "answer_start": [
+                137
+            ]
+        }
+    },
+    {
+        "context": "arson of  building/habitation/  vehicle reckless cause  damage  323-101376-j15  323rd judicial court  tarrant county  fort worth, tx  0 n o a 0 d o t was represented by counse incident report revealed o was notified of a fire at mcle a fire was coming upward a in the bathroom. firefighte ed he was standing outside  teacher entered the restroom oned the students regarding poured hand sanitizer into onducted an interview in wh e\" and intentionally set the was filed with tarrant count se of reckless arson of a b 12",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "323rd judicial court  tarrant county  fort worth, tx"
+            ],
+            "answer_start": [
+                80
+            ]
+        }
+    },
+    {
+        "context": "disorderly conduct/  district court of  maryland for  montgomery county, rockville, md;  docket no.:  4d00247916  nt was represented by",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "disorderly conduct"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "(ct. 1 ): delivery of  methamphetamine/  effingham county  circuit court,  effingham, il;  docket no.:  2008-cf-211  t was represented by counse the indictment, on october 2 ver less than five grams of m offee filters and plastic  mine (count 2). the c g material (count 2) was di re was received by the ido 4, 2011; however, he was r own to this officer. the de",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "effingham county  circuit court,  effingham, il"
+            ],
+            "answer_start": [
+                41
+            ]
+        }
+    },
+    {
+        "context": "run from police  (misdemeanor)  superior court,  bristol, ct;  docket no.: h17b- mv18-0245994-s  records, the offense o e unknown. accordin",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "run from police"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "1)misd. no operator license",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "no operator license"
+            ],
+            "answer_start": [
+                8
+            ]
+        }
+    },
+    {
+        "context": "inducing panic/  clermont county  municipal court,  batavia, oh;  docket no.:  1999crb00114  t was represented by supervision adjustm to the standard c 14, cunningham was rvice. the court wa 99, that cunningham violation hearing wa h time cunningham  ertificate. the hear counseling conditio robation violation  failed to complete t me and on novembe completed the requir losed.  conviction(s)  has been convicted o in franklin county m urt in warren, ohio and driving with a he has been convic ; lebanon municipa lle, ohio; and in an  confident unauthorized disclosure",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "inducing panic"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "theft $20-$200-check/ bexar county court at law no. 5, san antonio, tx; docket no.: 550671 02senpro4/76/2teunt waived counsel. court documents, on or aboutve the owner, nora taylor, of h is unknown to the affiant, didpropriate said property by acqsaid property being other tha0) but less than two hundred dot was arrested under the name a check which was written on a",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "theft $20-$200-check"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "1) misdemeanor  driving while  impaired - level one  2) misdemeanor  driving while license  revoked not impaired  revocation  docket no.:  14cr 50152  montgomery county  district court,  troy, nc  ecords reflect the defendan ing charges for misdemea sion of drug paraphernalia february 19, 2014.",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "montgomery county  district court,  troy, nc"
+            ],
+            "answer_start": [
+                151
+            ]
+        }
+    },
+    {
+        "context": "1)driving while  suspended/revoked  (m),",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "driving while  suspended/revoked"
+            ],
+            "answer_start": [
+                2
+            ]
+        }
+    },
+    {
+        "context": "driving while  impaired by alcohol/  circuit court of md  for prince george's",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "driving while  impaired by alcohol"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "ct. 4: 817.64, rece of goods by fraud;",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "rece of goods by fraud"
+            ],
+            "answer_start": [
+                15
+            ]
+        }
+    },
+    {
+        "context": "ct. 1: possession of  cannabis,  ct. 2: suspended  driver's license  fort lauderdale  police department,  fort lauderdale, fl  tances of the defendant's a ords confirmed the dispo as granted bond in this cas",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "fort lauderdale  police department,  fort lauderdale, fl"
+            ],
+            "answer_start": [
+                69
+            ]
+        }
+    },
+    {
+        "context": "1.no driver's license  2.fleeing to avoid  arrest  3.theft over $1,000/  marshall county  juvenile court,  lewisburg, tn;  docket no.: pt21- 06366  t was represented by counse er pursued a vehicle whic defendant exited the vehicle license. the vehicle, a 1979  the owner's effective consen 9",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "marshall county  juvenile court,  lewisburg, tn"
+            ],
+            "answer_start": [
+                73
+            ]
+        }
+    },
+    {
+        "context": "possession of  marijuana (m)/  dewitt county court, cuero, tx;  docket no.: 2007- 15471  nt was represented by co e was filed december 1 ligations and failure to 2009, an amended m as arrested for theft, p partment of the new arre tion charges that on or a entionally and knowing n two (2) ounces. additio pending receipt.",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "possession of  marijuana"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "i, dealing in cocaine  or narcotic drug, possession of  hashish, hash oil, and  or marijuana, felony ex ii: id co vanderburgh county  circuit court  evansville, in  82c01-0502-fa-00154  fro sucu he co chidfro su dis the charging information, on f h the intent to deliver cocaine in y possessed marijuana in an am",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "dealing in cocaine  or narcotic drug, possession of  hashish, hash oil, and  or marijuana"
+            ],
+            "answer_start": [
+                3
+            ]
+        }
+    },
+    {
+        "context": "assault causing bodily injury to family  member  141438  county court at law  no. 1  potter county, texas  nt waived counsel. acco uck and pulled nicole pa",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "assault causing bodily injury to family  member"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "criminal possession  controlled substance -  5th degree: intent to  sell/  dutchess county  court,  poughkeepsie, ny;  docket no.: 00167s-08 ye04 rev vi report from the new york stat tate parkway in east fishkill, n as traveling 74 miles per hour y abney, who presented a n the vehicle. the defendant wa k state driverâ€™s license had bee ey and priester were under paro s recovered from the ground nea he had dropped the bag on the stic bag was recovered and co defendant and abney were p nty court included a certificati rding the defendantâ€™s adjustme awaited from the nys docc",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "criminal possession  controlled substance -  5th degree: intent to  sell"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "ct. 1: aggravated  driving under  influence/no valid  driver license  (felony)/  cook county circuit  court, chicago, il;  docket no.:  15cr03677-01  nt was represented by co r counts of driving und dismissed. one petty c o the arrest report, polic r the wheel at a red ligh car running, while his  as transported to the po eafter.",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "aggravated  driving under  influence"
+            ],
+            "answer_start": [
+                7
+            ]
+        }
+    },
+    {
+        "context": "theft by receiving/  lonoke county circuit  court, lonoke, ar;  docket no.: cr 20-29  t was represented by counse ere nolle prossed. accordin ted a traffic stop on a motor d not stop. during the pursu l phone was found with the  he motorcycle was stolen. l king a ride because police w aylor, advised the individua dence. officers were able to cked the defendant out of a p",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "lonoke county circuit  court, lonoke, ar"
+            ],
+            "answer_start": [
+                21
+            ]
+        }
+    },
+    {
+        "context": "driving while  intoxicated  (misdemeanor)/  bexar county court at  law no. 12;  san antonio, tx;  dkt. no.:  492721  t was represented by counse martinez.  investigative reports, an  onducted a traffic stop on  pon interviewing the defend ication. the officer also obs hicle. after failing several st nsported to the bexar coun a search, that the defendan",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "bexar county court at  law no. 12;  san antonio, tx"
+            ],
+            "answer_start": [
+                44
+            ]
+        }
+    },
+    {
+        "context": "trafficking drugs 2nd degree (f);  circuit court,  cape girardeau  county, mo;  docket no.:  05g9-cr1737-01  t was represented by cou court records, on septem sessed more than two g tional count charging p ) was dismissed. accor eptember 30, 2005, of xecuted a search warran issouri. upon entry of th r. the following subjects n, eric hogan, anthon iseman, dorothy lawre ny brown, leona conra and darrell wiseman.",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "trafficking drugs"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "theft of property, $50  or more but less than  $500 (misd.), 332nd  district court, hidalgo  county, edinburg, tx,  case no. j11898f.  esentation is unknown. the  t's national crime informat ed and are pending receipt. d vailable.",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "332nd  district court, hidalgo  county, edinburg, tx"
+            ],
+            "answer_start": [
+                61
+            ]
+        }
+    },
+    {
+        "context": "failure to id fugitive  intent give false  information  1545854  criminal court no. 1  tarrant county  fort worth, tx  0 g d m a d this offense are described in",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "criminal court no. 1  tarrant county  fort worth, tx"
+            ],
+            "answer_start": [
+                65
+            ]
+        }
+    },
+    {
+        "context": "youthful offender  (minor in possession of  alcohol)/  troy municipal court,  troy, alabama;  docket no.: mc-98-10 offse cu ye ho ser t waived counsel. on july 23, 1 he age of 21.",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "youthful offender  (minor in possession of  alcohol)"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "possession, control or  consumption by  persons under the age  of 21 (misdemeanor);  district court for the  state of alaska,  sitka, ak  case: 1s1-88-00164cr im su pro nt was represented by counsel. a acted the defendant sleeping in defendant had a strong odor o reath sample with a breath alcoh",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "possession, control or  consumption by  persons under the age  of 21"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "possession of  marijuana 0-2 ounces  (misdemeanor)/  bexar county court at  law no. 8;  san antonio, tx;  docket no.: 318552  t was represented by counse ntonio police department wa t c t ti",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "bexar county court at  law no. 8;  san antonio, tx"
+            ],
+            "answer_start": [
+                53
+            ]
+        }
+    },
+    {
+        "context": "burglary of a vehicle  8707a  47th judicial district  court  randall county, texas t was represented by cou defendant stole a vehicle probation is unknown.",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "burglary of a vehicle"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "possession of a  controlled substance  (marijuana),  misdemeanor/  linn county district  court, cedar rapids,  ia;  docket no.:  srcr1298783  court documents, on dece possessed a controlled substa s represented by counsel.",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "linn county district  court, cedar rapids,  ia"
+            ],
+            "answer_start": [
+                67
+            ]
+        }
+    },
+    {
+        "context": "being found in the u. after previous  deportation (felony),  u.s. district court  sd/tx, mcallen  division, docket  number 7:22cr0196 001.  nt was represented by  arez, u.s. district jud 2, 2022, the defendant w xas. when questioned a en of mexico with no le ed under the name erick  tory computation  minal history score is two criminal history score of nal conduct  o immigration and custo t was encountered by im d to mexico, on februar offense was pursued in  o immigration and custo t was encountered by im d to mexico, on march offense was pursued in  o immigration and custo t was encountered by im d to mexico, on march  offense was pursued in",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "being found in the u. after previous  deportation"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "ct. 1: 11377(a) h& poss. cs (fel.).  san diego co. sher dept.",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "h& poss. cs"
+            ],
+            "answer_start": [
+                16
+            ]
+        }
+    },
+    {
+        "context": "ct. 1: 11377(a) h& poss cs;",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "h& poss cs"
+            ],
+            "answer_start": [
+                16
+            ]
+        }
+    },
+    {
+        "context": "drug abuse/ franklin county municipal  court, columbus, oh;  docket no.:  2011crb011423  epresented by counsel. accordi ne baggie of marijuana.",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "drug abuse"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "3) attempted crimina possession of a forge instrument in the  second degree",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "attempted crimina possession of a forge instrument in the  second degree"
+            ],
+            "answer_start": [
+                3
+            ]
+        }
+    },
+    {
+        "context": "operating a vehicle  without a license/  kent county district  court, chestertown,  md;  docket no.: fo43246",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "operating a vehicle  without a license"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "assault third degree (m (lio); new castle  county superior cour wilmington, de;  case no.: 191000116 o the newark police dep ncident. the victim s fa iana hospital in newa he prior evening. when pital, mr. alfaro called  pped.   of the incident, the victim d to involve the police,  he victim stated that aro riend, returned home d shower curtain into the mes, causing the victim",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "assault third degree"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "1)burglary  2) habitual violator  3) obstruction  police/public  administration  4) acquiring license  plate for purpose of  concealing  identification of motor  vehicle/  cobb county superior  court, marietta, ga;  docket no.: unknown  esentation is unknown. the a ses offenses were reflecte ecords; however, additional d",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "cobb county superior  court, marietta, ga"
+            ],
+            "answer_start": [
+                172
+            ]
+        }
+    },
+    {
+        "context": "possession of a  controlled substance t wit-cocaine  95-cr-12098  9th judicial district  court  curry county,  new mexico",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "possession of a  controlled substance t wit-cocaine"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "ct. 1: 647(b) pc,  disorderly conduct (misd.).  los angeles, ca, p",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "disorderly conduct"
+            ],
+            "answer_start": [
+                19
+            ]
+        }
+    },
+    {
+        "context": "ct. 1: 853.7 pc, fta  after written promis;  ct. 2: 25602(a) bp,  sell alcohol to intox.  person (misd.).  san diego, ca pd",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "san diego, ca pd"
+            ],
+            "answer_start": [
+                107
+            ]
+        }
+    },
+    {
+        "context": "operating while  intoxicated, first  offense/  bremer county, ia;  docket no.:  owcr009980  this offense Â– which took pl onduct section.  . 10:  the defendant objec f one criminal history poin endantÂ’s objections outlin duct.  nt objects to all potentially 12",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "bremer county, ia"
+            ],
+            "answer_start": [
+                47
+            ]
+        }
+    },
+    {
+        "context": "inflict corporal injury on spouse (felony)/  fresno county  superior court, fresn ca; docket no.:  f10902677  the fresno county p a domestic disturbance o days prior. she explain grabbed her by the arm nd would not allow her cided to end their relati ame aware of her locatio was not ready to speak to d the defendant attempte",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "inflict corporal injury on spouse"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "ct. 5: 817.481(3)(a) obtain property by  fraud credit card.  fort lauderdale po department",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "obtain property by  fraud credit card"
+            ],
+            "answer_start": [
+                21
+            ]
+        }
+    },
+    {
+        "context": "possession of cocaine (1 to 4 grams) with intent to deliver, felony, hsc 481.112(c)/ 338th district court, harris county, tx; docket no.: 1262077 07guthrwiser05ext was represented by counsel. the houston police departmeity occurring at an apartment er conducting surveillance one residence and upon entry, cthe search of the apartment, ofid codeine, 35 grams of crackms of hydrocodone, and 3 gramd four firearms, two of which harous ziploc baggies, and sevcaine residue. the defendant w16",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "possession of cocaine (1 to 4 grams) with intent to deliver, felony"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "possession of lead  cane, billy, blackjack sand club, sap or  slingshot (felony)/  fresno county  superior court, fresn ca;  docket no.:  f15904432",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "possession of lead  cane, billy, blackjack sand club, sap or  slingshot"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "robbery/  davidson county  juvenile court,  nashville, tn;  docket no.: pt22- 10898  t was represented by couns endant and several other ind h school. the defendant th ed approximately $50, and t f probation affidavit dated m 03, for especially aggravated 10",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "davidson county  juvenile court,  nashville, tn"
+            ],
+            "answer_start": [
+                10
+            ]
+        }
+    },
+    {
+        "context": "minor in possession of alcohol  (court and case  number unknown)  cibola county,  new mexico  esentation is unknown. is time.",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "minor in possession of alcohol"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "operate motor vehicle with 0.08 of 1 percent alcohol or more in blood suffolk county court, riverhead, ny docket no.: 12-trf-105 t was represented by counsel. o",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "operate motor vehicle with 0.08 of 1 percent alcohol or more in blood"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "minor possess/sell/  dispense/consume  alcohol/  saline county, ne;  docket no.: cr09-474 6",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "minor possess/sell/  dispense/consume  alcohol"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "driving on suspended license and privilege district court of  maryland for  montgomery county, silver spring, md;  docket no.: 00n0cq nt was represented by",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "driving on suspended license and privilege"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "ct. 1: aggravated  battery with great  bodily harm,  ct. 2: aggravated  assault on a law  enforcement officer,  ct. 4: obstruction of  a search warrant,  ct. 5: driving while  license suspended,  ct. 6: contempt of  court  broward county  sheriff's office,  deerfield beach, fl  2017, a detective from the deputy-involved shooting da. upon arrival, the detec 18",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "broward county  sheriff's office,  deerfield beach, fl"
+            ],
+            "answer_start": [
+                223
+            ]
+        }
+    },
+    {
+        "context": "driving while licens invalid (m)/  dewitt county court, cuero, tx;  docket no.: 2007- 15472  ant was represented by charges that on or about  erator s license to drive  exas, and while said  enied/invalid pursuant to operator s license was  d then and there unlawfu n said county and state. a pending receipt.",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "driving while licens invalid"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "driving on suspended license and privilege district court of  maryland for baltimo county, catonsville,  md;  docket no.: 1hp0f1y esentation is unknown. t",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "driving on suspended license"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "violation of tdoc policy",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "NONE"
+            ],
+            "answer_start": [
+                -1
+            ]
+        }
+    },
+    {
+        "context": "11377(a) h&s:  possession of a  controlled substance  - lsd (fel.)/ los  angeles superior  court; docket no.:  ga034845  represented by counsel.  superior court records re",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "los  angeles superior  court"
+            ],
+            "answer_start": [
+                68
+            ]
+        }
+    },
+    {
+        "context": "attempt to commit  burglary of a buildin county at court at  law. no 2, hidalgo  county, tx;  docket no.: cr- 203154-b  presentation is unknown rmation has been reque been received.",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "attempt to commit  burglary of a buildin"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "no driver's license  2nd offense  general district court,  fairfax county, va  docket no.:  gt17011144-00  t was represented by counse",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "general district court,  fairfax county, va"
+            ],
+            "answer_start": [
+                34
+            ]
+        }
+    },
+    {
+        "context": "evading arrest or  detention  62735  county court at law  no. 2  potter county, texas  t waived counsel. accord entionally fled from a",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "evading arrest or  detention"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "ct. 2: 25602(a) bp, sell alcohol to into person (misd.).  san diego, ca pd",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "sell alcohol to into person"
+            ],
+            "answer_start": [
+                20
+            ]
+        }
+    },
+    {
+        "context": "driving while  intoxicated;  county court at law  no. 1, hidalgo count tx; docket no.: cr- 04-12557-a  resentation is unknown. urt records reflect that o g and operating a motor v /or a public parking lot,  d not have the normal us f the introduction of al of two and more of thes",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "driving while  intoxicated"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "illegal entry by willful false claim of u.s.  citizenship (felony);  u.s. district court fo the southern district o texas, laredo  division; case no.  5:01cr00303-001  to the federal presen 4-001, the defendant w agents in zapata, tex vehicle which they belie reviously arrested the d d the defendant was arres e entered the united st on the date of arrest by fficer and by stating he w ble george p. kazen, c this case.  s likely the defendant w rom custody in this cas cate the defendant s term",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "illegal entry by willful false claim of u.s.  citizenship"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "ct 1: endangering  sexual conduct with  child by caretaker/  union county superior  court, elizabeth, nj;  docket no.: 18-09- 00503-a  nt was represented by cou exual assault-victim less t to age 13 but less than 16- 5-year-old, actor 4 years old according to the transcript  admitting that between ma -parent to b.a., and on at le lying in bed with b.a. addi ed and rubbed his penis on th o incarceration: the defen was removed from the unit to supervision: accordin erm of parole supervision re this report, no revocation pr ew jersey initiate revocatio m.",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "union county superior  court, elizabeth, nj"
+            ],
+            "answer_start": [
+                61
+            ]
+        }
+    },
+    {
+        "context": "misdemeanor driving  while license  revoked impaired  revocation  docket no.  15cr 50742  anson county  district court,  wadesboro, nc  ecords reflect the defendant occurred on june 16, 2015.",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "anson county  district court,  wadesboro, nc"
+            ],
+            "answer_start": [
+                90
+            ]
+        }
+    },
+    {
+        "context": "ct. 1: 11377(a) h&s,  poss. cs (misd.).  san diego co. sheriff's  dept.  ormed a vehicle stop on a  they contacted nagle wh searched the vehicle. insid mall baggie of white crystal",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "san diego co. sheriff's  dept."
+            ],
+            "answer_start": [
+                41
+            ]
+        }
+    },
+    {
+        "context": "improperly handling a  firearm in a motor  vehicle/  shaker heights  municipal court,  cleveland, oh;  docket no.:  18crb00121  t was represented by counse or a traffic violation. he pr 8",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "shaker heights  municipal court,  cleveland, oh"
+            ],
+            "answer_start": [
+                53
+            ]
+        }
+    },
+    {
+        "context": "unlawful possession of a controlled substance with the intent to deliver, to-wit: cocaine 4 grams f-0940895 dallas county criminal district court 4 dallas, tx 07/guilyeaadju01/007/mt08/senthe 07/sen11",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "unlawful possession of a controlled substance with the intent to deliver, to-wit: cocaine 4 grams"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "ct. 2: 4149 bp: pos hypodermic needle",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "pos hypodermic needle"
+            ],
+            "answer_start": [
+                16
+            ]
+        }
+    },
+    {
+        "context": "ct. 1: possession with  intent to deliver  controlled substance to- wit: cocaine in an  amount of 4 grams or  more but less than 200  grams (felony),  ct. 2: possession with  intent to deliver  controlled substance to- wit: cocaine in an  amount of 200 grams  or more but less than  400 grams (felony),  332nd  judicial district  court, hidalgo county,  edinburg, tx, case  no. cr-0825-03-f.  ant, identified as genaro  o the offense report prepared ay 10, 2002, an officer hear dant. the officer initiated a t n. a search of the passenge taining approximately 15 g f the firearm and admitted he endant informed the officer  consent to search same. a approximately 103 grams o the defendant was arrested  h unlawful carrying weapon e than 2 ounces in case n 5",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "332nd  judicial district  court, hidalgo county,  edinburg, tx"
+            ],
+            "answer_start": [
+                304
+            ]
+        }
+    },
+    {
+        "context": "count 1, trafficking in  stolen weapons,  felony.  count 2, possession of  9",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "NONE"
+            ],
+            "answer_start": [
+                -1
+            ]
+        }
+    },
+    {
+        "context": "1)driving while  suspended/revoked  (m),",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "driving while  suspended/revoked"
+            ],
+            "answer_start": [
+                2
+            ]
+        }
+    },
+    {
+        "context": "disorderly conduct/  district court of  maryland for  montgomery county, rockville, md;  docket no.:  2d00371835  t waived counsel. the ci",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "disorderly conduct"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "possession of drug  paraphernalia  95-cr-12098  9th judicial district  court  curry county,  new mexico  t was represented by cou ndant was in possession  ue.",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "possession of drug  paraphernalia"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "criminal trespass  (misdemeanor);  webb county court at  law no. 2;  laredo, texas;  docket no:  2006crb000405-l2  nt was represented by coun on or about march 22, 2 or knowingly enter prop hout the effective consent o nt had notice/knowledge tha 4",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "webb county court at  law no. 2;  laredo, texas"
+            ],
+            "answer_start": [
+                35
+            ]
+        }
+    },
+    {
+        "context": "ct. 1: possession of  marijuana (m)  texas county circuit  court; houston, mo  case no.: 14te- cr00373  l count of unlawful use of dru on april 14, 2014, the defen",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "texas county circuit  court; houston, mo"
+            ],
+            "answer_start": [
+                37
+            ]
+        }
+    },
+    {
+        "context": "possession of  marijuana with the  intent to distribute  docket no.:  cr11002206-00  circuit court,  virginia beach, va inc sup un pro go op sus an 3/1 re inc sup un pro",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "possession of  marijuana with the  intent to distribute"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "attempt - schedule vi  drugs;  dyer county general  sessions court,  dyersburg, tn  docket no. 2012-cr-11cu su pro esentation is unknown. factual",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "attempt - schedule vi  drugs"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "possession with int to sell (felony)  superior court,  hartford, ct;  docket no.: h14h- cr15-0679392-s  o the hartford police rved traevaughnn m e aware that mr. morri arges and mr. morris r. morrison s person  et weight of 30 grams) records, mr. morris upervised parole on  2018, following new  ruary 15, 2019 and wa rges. special parole w rminated early on oct",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "possession with int to sell"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "ct. 1: 21 u.s.c. Â§ 841(a)(1), possession of meth with intent to distribute (fel.). westmoreland, ca usbp u.do000506an10s contacted mejia at the wy 28.26 kilograms of methamtted he responded to a post to ped the details of the offense. he defendant was instructed toivered to sandoval in mexico, six or seven occasions and was wrong with the work he",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "possession of meth with intent to distribute"
+            ],
+            "answer_start": [
+                31
+            ]
+        }
+    },
+    {
+        "context": "ct. 7: criminal possession of  se controlled substance,  im 5th, with intent to sell  nassau county court,  mineola, new york  docket no.:  sci-70396-001  t was represented by counsel. c sell; cts. 4-5: possession of c of controlled substance: narc officers with the hempstead,  possessing and selling a quant currency, in an event captured o over capacity. the defendant  ares.",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "criminal possession of  se controlled substance,  im 5th, with intent to sell"
+            ],
+            "answer_start": [
+                7
+            ]
+        }
+    },
+    {
+        "context": "18-8001: driving  without privileges  (misd.)/  canyon county  magistrate court, id;  docket no.: cr- 2008-33247  resentation is unknown.",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "canyon county  magistrate court, id"
+            ],
+            "answer_start": [
+                48
+            ]
+        }
+    },
+    {
+        "context": "attempted drug  abuse  steubenville  municipal court,  steubenville, oh  docket no.:  05-crb-1052 pl as co ant was represented by co n drugs. the details of this o",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "attempted drug  abuse"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "possession of a contr substance (f);  351st district court,  houston, tx;  docket no.: 1416668 defendant was represen ducted a traffic stop of th t the officer detected  ng a search of the v ession of 75.31 grams ine. also located in the istory computation   convictions above resul iminal history score is the sentencing table in u",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "possession of a contr substance"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "2)no insurance (m);  municipal court,  kansas city, mo;  case nos.: 111049277 & 111049279  ords indicate that the de dence/address change.",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "no insurance"
+            ],
+            "answer_start": [
+                2
+            ]
+        }
+    },
+    {
+        "context": "assault bodily inj family member  case no.: 2014l0 ords were requested, the bexar county ju nal conviction(s)   tory computation   convictions above re inal history score is z iminal history score  nal conduct  rges   charge  theft >=$300k (fe case no.: 106535 re the same as the in",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "assault bodily inj family member"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "1)unlawful possessio of a firearm (f),",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "unlawful possessio of a firearm"
+            ],
+            "answer_start": [
+                2
+            ]
+        }
+    },
+    {
+        "context": "theft by receiving/  pulaski county circuit  court, little rock, ar;  docket no.: cr 19- 4351  t was represented by counse according to the arrest rep academy sports store was n he officers observed the def ate. the items the defendant he defendant also had the ke of crystal substance, which  e showed the defendant arriv 10",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "pulaski county circuit  court, little rock, ar"
+            ],
+            "answer_start": [
+                21
+            ]
+        }
+    },
+    {
+        "context": "ct. 1: 11378 h&s,  poss. cs for sale  (fel.).  san diego co. sher dept.",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "poss. cs for sale"
+            ],
+            "answer_start": [
+                19
+            ]
+        }
+    },
+    {
+        "context": "ct. 1: 11550(a) h&s,  use/under influence  cs;  ct. 2: 11377(a) h&s,  poss. cs (misd.);  ct. 3: 11364 h&s,  poss. cs paraphernalia;  ct. 4: 14601.1(a) vc,  drive while lic. susp.  (misd.);  ct. 5: 12500(a) vc,  drive w/o license.  san diego co. sheriff's  dept.  formed a traffic stop on a ve was determined to be drivin",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "san diego co. sheriff's  dept."
+            ],
+            "answer_start": [
+                231
+            ]
+        }
+    },
+    {
+        "context": "delivery of  methamphetamine, 1  4 grams (felony)/  184th  district court,  harris county, tx;  case no.: 1282269  nt was represented by co oint investigation with t uston, texas, police de fficers to the defendant hrough the use of the c approximately 1.8 grams efendant was arrested fo",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "delivery of  methamphetamine"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "use/possession of drug paraphernalia/  se henry county district  cu court, abbeville,  mo alabama;  fin docket no.: dc-2002-t was represented by counsel. o nt at the defendant's residence",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "use/possession of drug paraphernalia"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "driving while  impaired by alcohol/  kent county district  court, chestertown,  md;  docket no.: 0n80ag",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "driving while  impaired by alcohol"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "conspiracy to possess  with intent to distribute  cocaine (98-cr-243  and 98-cr-245)  (felony), u.s. district  court, nd/ny,  binghamton division,  docket number:  3:98cr00243-046 &  3:98cr00245-003  06 mo ea co byco06 ex nt was represented by counse mcavoy, chief u.s. district  ared by the eastern district of  arge-scale, multi-tiered cocaine nce at least 1990 and involv as recruited to distribute cocain ation commenced in march  nother cocaine distribution con ountable for between 500 gram able for between 50 and 100 gr",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "conspiracy to possess  with intent to distribute  cocaine"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "no insurance (m);  municipal court,  sikeston, mo;  docket no.:  mu5b21940278  egarding attorney repre reme court rule 37.50  he defendant of the right e the defendant has mad counsel.  confirm the conviction.",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "no insurance"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "misconduct involving weapons (class 4  felony)/  maricopa county  superior court,  phoenix, az;  docket no.: cr1999- 015010  t was represented by c ring a residence with a  t was obtained and num rmation related to the g s documented to be a me t provided the following i went over to my friend ee no cops. i just heard  ys at the house earlier, so asn't even mine. my frien prints got on it.\"  summary can be found ut his adjustment to supe",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "misconduct involving weapons"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "possession of  marijuana (m);  municipal court,  kansas city, mo;  case no.: 1g628104  arges of possession of  ense (case no. 83280 were dismissed by the pro",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "possession of  marijuana"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "possession of a  controlled substa penalty group 1 < [t.h.s.c. 481.115 329th  wharton co district court,  wharton, tx;  docket no.: cri7 1  t was represented b e el campo, texas bstance penalty grou port was requested fr",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "possession of a  controlled substa"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "burglary second degre (f);",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "burglary second degree"
+            ],
+            "answer_start": [
+                -1
+            ]
+        }
+    },
+    {
+        "context": "transporting illegal aliens and aiding abetting/  united states dist court, las cruces nm;  docket no.:  2:10cr02881-rb nt was represented b he foot guide for a g",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "transporting illegal aliens"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "felony possession of  child pornography  docket no.  1:10cr22-1  united states  district court for the  middle district of  north carolina,  greensboro, nc  s the defendant pled gu n april 1, 2009, defend ndant was in possession  e female (approximate ag t was frequenting a coffe able at the business. o and he admitted to havi eized a laptop computer, no disciplinary issues fo s  include  instructor  recovery, problem solv , music and fitness cours operator.  row released from the bu department veterans a rovider, mental health t with the collaboration of t fendant dutrow from vi onal support of a peer su circumvent restrictions a violation report was in he petition alleges the  d failed to answer truth ages to include non-porn anuary 23, 2021, and jan",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "possession of  child pornography"
+            ],
+            "answer_start": [
+                7
+            ]
+        }
+    },
+    {
+        "context": "conspiracy to commi robbery/ circuit cou of maryland for  montgomery county, rockville, md;  docket no.: 118246c t was represented by co 2010, a victim answere onted by an unknown bl  victim took off and ra victim and ordered him t nown black male subje unknown male with a s other unknown male w er victims in the home at silver and black handgun e other victims stated the r and black handgun cam ms were hiding and asked one of the victims  purs so took a  twenty bag   ation of money, and the other armed male to take  ated she went to the ba first victim.  e victims were in the ba ers and showboxes whi earching located a gold ont window open in the r observed by the armed m med males fled from the ed at the residence and  k ski mask exit the front d n back into the residence. the living room in the ba the back of the house an idence. police ordered th other male complied. a",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "conspiracy to commi robbery"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "assault with deadly  weapon, to wit, a  wrench (felony)/  fresno county  superior court ,  fresno, ca;  docket no.:  f19908539  e incident report was r ecord was located.  rding to the presentence n january 29, 2020, on a possible armed physic s, contacted the victim w victim advised he and his d realized the defendant w he defendant attacked h dow. the victim was ab ough the broken windo",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "assault with deadly  weapon, to wit, a  wrench"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "12500(a) vc:  driving without a  license (ct.  2)(misd.)/ los  angeles superior  court; docket no.:  6ea10844  represented by counsel.  superior court records re ther, an additional charge",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "los  angeles superior  court"
+            ],
+            "answer_start": [
+                58
+            ]
+        }
+    },
+    {
+        "context": "12500(a) vc:  driving without a  license (ct.  2)(misd.)/ los  angeles superior  court; docket no.:  6ea10844  represented by counsel.  superior court records re ther, an additional charge",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "los  angeles superior  court"
+            ],
+            "answer_start": [
+                58
+            ]
+        }
+    },
+    {
+        "context": "driving under the  influence of  alcohol/drugs  (misdemeanor)/  fresno county  superior court, fresn ca; docket no.:  t06903924-9  port was requested, but known.",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "driving under the  influence of  alcohol/drugs"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "terroristic threat;  hidalgo county cour at law no. 1,  edinburg, tx;  docket no.: cr19- 11576-a  nt was represented by  rt records reflect that on  eaten to commit an offen the texas state trooper mminent serious bodily i r of the texas departmen tory computation  minal history score is one criminal history score of nal conduct  charge  count 1) possession o drug paraphernalia  count 2) possession o marijuana  rmation reflects that on  the weslaco police dep female advised the office re all sniffing paint and s apartment. contact wa n the alley way behind t f gold spray paint and tw of the defendant reveale as arrested for possessi",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "terroristic threat"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "drug abuse - marijuana (mm)/  cleveland municipal  court, cleveland, oh;  docket no.: 2011- crb-031934  esentation is unknown. accord , 2011, officers witnessed an in dow. the passenger notified th mpted to drive away. two bags defendant exited the vehicle.",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "drug abuse - marijuana"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "1) driving while  intoxicated first  offense  2) drive without a  license  general district court,  fairfax county, va  docket no.:  gt17073127-00  gt17073131-00  t was represented by counse april 11, 2017, the officer s owner of the vehicle. the o nt, where the defendant dr odor of alcohol coming fr ink. the defendant indicate nter counsel of the vehicle.  igned of \"hgn1\". the defen ng the walk and turn. while ntire time for balance, hoppe did not have any issues bef the address provided was 14 nt was also charged with -00) which was nolle prose y jerking of oneÂ’s eye when it gaz used as evidence of impairment",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "general district court,  fairfax county, va"
+            ],
+            "answer_start": [
+                75
+            ]
+        }
+    },
+    {
+        "context": "ct. 1: 11377(a) h&s,  poss. cs (fel.);  11364.1 h&s, poss.  cs paraphernalia.  riverside co. sheriff's  dept.",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "riverside co. sheriff's  dept."
+            ],
+            "answer_start": [
+                79
+            ]
+        }
+    },
+    {
+        "context": "use controlled substance;  fremont county circuit court,  riverton, wy;  docket no.: cr-2021-1091 wagu su ser un fee defendant approached law enforceme eone in a pickup pointed an uzi at  ndant had scrapes on his right hand  d methamphetamine that day and ap sted.  officer attempted to stop a pickup th m the vehicle and officers were una ched; however, no firearms were locate",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "use controlled substance"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "1)operating a motor  vehicle under the  influence of  alcohol/drugs, first  offense",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "operating a motor  vehicle under the  influence of  alcohol/drugs"
+            ],
+            "answer_start": [
+                2
+            ]
+        }
+    },
+    {
+        "context": "possess/consume  marijuana personal us quantity between 18  and 21 grams (civil  violation);  justice of the peace  court 11,  new castle, de;  case no.: 160601569 o the new castle coun o a call about a vehicle vehicle was parked in fr ill running. mr. alfaro w fficer tapped on the pas odor of marijuana to em y conducted. mr. alfaro  rijuana.  dvised the officer that h st returned from giving h ss a curb and noted the val in wilmington, delaw rs contacted ms. angle, o 118 greenfield lane. chewy.",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "possess/consume  marijuana personal us quantity between 18  and 21 grams"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "driving, attempting t drive vehicle while  impaired by alcohol/  district court of  maryland for  montgomery county, silver spring, md;  docket no.: gf96956 nt was represented by",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "driving, attempting t drive vehicle while  impaired by alcohol"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "misdemeanor driving  while impaired Â–  level five  docket no.:  13cr 51524  montgomery county  district court,  troy, nc  ecords reflect the defendant occurred on november 17, 2 possession of drug parapher 38), use of foreign licens carrying a concealed gun ily dismissed.  ect on october 5, 2015, a pr nt absconded supervision; t y obligations; and failed to a a1.2, comment. (n. 11), whe counted separately under u ation is added to the sente",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "montgomery county  district court,  troy, nc"
+            ],
+            "answer_start": [
+                77
+            ]
+        }
+    },
+    {
+        "context": "theft of a motor  vehicle (f);",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "theft of a motor  vehicle"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "second degree  burglary (felony)/  fresno county",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "second degree  burglary"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "2) possession of a  controlled substance  (f);  jackson county  circuit court,  kansas city, mo;  case no.:  2116-cr00956",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "possession of a  controlled substance"
+            ],
+            "answer_start": [
+                3
+            ]
+        }
+    },
+    {
+        "context": "ct. 1: 4140 bp. sell  hypo needle syringe  w/o permit (misd.).  san diego, ca pd",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "san diego, ca pd"
+            ],
+            "answer_start": [
+                64
+            ]
+        }
+    },
+    {
+        "context": "1) possession of  controlled substance;  2) possession of  controlled substance;  19",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "NONE"
+            ],
+            "answer_start": [
+                -1
+            ]
+        }
+    },
+    {
+        "context": "criminal damage to  property/  richland county  circuit court, olney,  il; docket no.:  1992-cf-59  the information, on march ging to fred correll, in that  aid damage was in excess o ce.   1993, a petition to revoke p ution. on july 15, 1993, a mmitted the offense outlined 3, 1993, a third petition to  e offense outlined in case n re was sentenced in this ca tence in the idoc in case  , and his sentence was discha he defendant's term of parol",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "richland county  circuit court, olney,  il"
+            ],
+            "answer_start": [
+                31
+            ]
+        }
+    },
+    {
+        "context": "ct. 4: 4140 bp, pos hypodermic needle",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "pos hypodermic needle"
+            ],
+            "answer_start": [
+                16
+            ]
+        }
+    },
+    {
+        "context": "misdemeanor driving  while license  revoked impaired  revocation  docket no.  13cr 703150  montgomery county  district court,  troy, nc  ecords reflect the defendant occurred on december 30, 2",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "montgomery county  district court"
+            ],
+            "answer_start": [
+                91
+            ]
+        }
+    },
+    {
+        "context": "controlled substance in schedule ii/ hamilton county  su",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "controlled substance in schedule ii"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "molesting a motor  vehicle/  washington county  district court case cf 2018-00248;  bartlesville, ok   n july 9, and 10, 2018, om within.",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "molesting a motor  vehicle"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "public intoxication/  wagoner county  7/7 fin district court case  cm-2003-267;  wagoner, ok  arrest are not available.  re un",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "public intoxication"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "unlawful possession of  alcohol/controlled  substance by minor,  class b misd./  west valley justice  court, west valley  city, ut;  docket no.: 08 tim ca",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "unlawful possession of  alcohol/controlled  substance by minor,  class b misd."
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "felon in possession o a weapon (felony)/  176th  district court,  harris county, tx;  cause no.: 1740358  nt was represented by co er 20, 2021, officers w e defendant. officers ob a mild odor of alcoholic eld sobriety tests and c 196% breath alcohol c our to seven beers. upo d a fully loaded kimber chamber. also found w d magazine, a 9-round g ition.",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "felon in possession o a weapon"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "failure to  pay fare  (misdemeanor)/  king county  district court,  seattle, wa;  docket no.:  iu0073409   t waived counsel. de with the documents r",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "failure to  pay fare"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "2) fleeing or evading police in the second  degree (on foot)",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "fleeing or evading police in the second  degree (on foot)"
+            ],
+            "answer_start": [
+                3
+            ]
+        }
+    },
+    {
+        "context": "engage in speed  competition (m);  municipal court,  kansas city, mo;  case no.: 830974171 on is reflected within  . due to the age of the ca",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "engage in speed  competition"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "unlawful possession of alcohol by a minor,  jai class b misd./  mo tooele justice court -  fin wendover, wendover, ut;  docket no.: nt waived counsel. the defen available.  o supervision: court records  eventually paid everything in  essfully completed on august",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "unlawful possession of alcohol by a minor"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "possession of a contr substance (f);  338th district court,  houston, tx;  docket no.: 0957163 defendant was represent offense was located.",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "possession of a contr substance"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "possession of  marijuana 0-2 ounces  (misdemeanor)/  bexar county court at  law no. 11;  san antonio, tx;  docket no.: 215314  t was represented by counse nio police department was",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "bexar county court at  law no. 11;  san antonio, tx"
+            ],
+            "answer_start": [
+                53
+            ]
+        }
+    },
+    {
+        "context": "possession of marijuana  under 2 ounces  1545658  criminal court no. 1  tarrant county  fort worth, tx  0 g d m a d this offense are described in",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "criminal court no. 1  tarrant county  fort worth, tx"
+            ],
+            "answer_start": [
+                50
+            ]
+        }
+    },
+    {
+        "context": "possession of  alcoholic beverages,  class c/  choctaw tribal court,  philadelphia, ms;  docket no.:  cr2020972 sen su t was present in court without",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "possession of  alcoholic beverages,  class c"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "misconduct on public  transportation  (mm)/cleveland  municipal court,  cleveland, oh; docket  no.: 2010crb004567  ormation was available.",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "cleveland  municipal court,  cleveland, oh"
+            ],
+            "answer_start": [
+                43
+            ]
+        }
+    },
+    {
+        "context": "driving under the  influence/  paulding county  superior court, dallas,  ga;  docket no.: 94cr093  t waived counsel. on janu r the influence.  15, 1994, lloyd perkins w nty superior court. count o on january 23, 1994.",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "paulding county  superior court, dallas,  ga"
+            ],
+            "answer_start": [
+                31
+            ]
+        }
+    },
+    {
+        "context": "37-23732b(a)(2):  drug trafficking in  cocaine (cts. 2 - 3)/  canyon county  district court, ut;  docket no.: cr- 2009-20518  represented by counsel.  o court records an addition ed.",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "canyon county  district court, ut"
+            ],
+            "answer_start": [
+                62
+            ]
+        }
+    },
+    {
+        "context": "improper entry by alien  u.s. district cour western district o texas, pecos divi docket no.:  4:17mj1849-001  nt was represented  marfa, texas. an  ent in the united sta istory computation convictions above r iminal history score art a, a criminal his",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "improper entry by alien"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "possession of  marijuana with the  intent to distribute  (felony)/  u.s. district court,  southern district of  california, imperial,  ca; docket no.: 3:14- cr-01508-gpc-002 im su10 t was represented by counsel.  agents discovered footprints on ornia. the footprints lead to six arijuana. on may 2, 2014, wit ding in a cave. the individuals s, humberto astorga-castillo,  irez-astorga. the individuals w esent in the united states, and   astorga-castillo, soto-reyna the opportunity to carry a bur . ramirez-ramirez stated he fo nal border and decided to carr",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "possession of  marijuana with the  intent to distribute"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "1)possess a firearm  while unlawfully  possessing a schedule i  or ii controlled  substance, docket no.:  cr18-4167  2) possession of a  1",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "NONE"
+            ],
+            "answer_start": [
+                -1
+            ]
+        }
+    },
+    {
+        "context": "no driver's license  (m);  municipal court,  kansas city, mo;  case no.: 831080904 e of the case, court reco conviction is reflecte ing record and compute ch also note the sentence",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "no driver's license"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "possession of a  controlled substance (f)  texas county circuit  court; houston, mo  case no.: 20te- cr00430-01  nt had legal counsel and enter 9.015. missouri department  d by the missouri state hig on. the defendant was the pa ed officers consent to search onsole, officers discovered a aled a stainless-steel vial with nt passenger seat. it containe t nor cook claimed ownershi nt is currently serving an und m discharge date is july 6, 20",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "texas county circuit  court; houston, mo"
+            ],
+            "answer_start": [
+                43
+            ]
+        }
+    },
+    {
+        "context": "minor in possession of tobacco (m)  municipal court  springfield, mo  case no.: 011899214  t waived his right to counsel a olice department, on septemb treet to a convenience store. t w enforcement contact for drug d observed he was in possession officers located a package of n on two active municipal warra tobacco products.",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "minor in possession of tobacco"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "driving while  intoxicated  (misdemeanor);  zapata county court, zapata, texas;  case no. 2846  to the federal presen 4-001, on may 25, 1996 county sheriff's office  icated (misdemeanor).  during a traffic stop due ned that the defendant wa zer test revealed the de 49. the defendant was ar s likely the defendant w om custody in this case,",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "driving while  intoxicated"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "2) speeding  docket no.  97cr 37296  cumberland county  district court,  fayetteville, nc  s reflect the defendant e 1997.",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "speeding"
+            ],
+            "answer_start": [
+                3
+            ]
+        }
+    },
+    {
+        "context": "possession with inten to distribute cocaine  base (f);  united states  district court for the  eastern district of  missouri;  docket no.:  1:09cr00040-1 hea t was represented by cou court records, on octob astern district of miss ve grams or more of a m investigative records sum istrict of missouri, on o n (dea) and southeast  ource (cs) to purchase from darrell wiseman i ated at 539 south middl nducted previous drug tr sions in 2006, 2007, and records from the united le on supervised release ilver s and participated nd completed an inp e included testing positi g (36 times), and failing",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "possession with inten to distribute cocaine  base"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "assault (m);  municipal court,  kansas city, mo;  case no.: 2g098927",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "assault"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "ct. 1: possession of  controlled substance  marijuana/spice, clas b misd./  draper justice court,  draper, ut;  docket no.:  221100219  nt was represented by  was dismissed. on au were dispatched to a ra eported a vehicle in the  ople coming and going f he two occupants and i ng with them, officers no",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "possession of  controlled substance  marijuana"
+            ],
+            "answer_start": [
+                7
+            ]
+        }
+    },
+    {
+        "context": "no insurance (m);  municipal court,  kansas city, ks;  case no.: t88817997",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "no insurance"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "petit larceny  (misdemeanor)/  fairfax county  general  district court;  fairfax, va;  docket no.:  gc13040722-00  t was represented by couns oli. the original offense, gr o the charge of conviction.  9",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "fairfax county  general  district court;  fairfax, va"
+            ],
+            "answer_start": [
+                31
+            ]
+        }
+    },
+    {
+        "context": "assault in the fourth  degree (domestic  violence, minor  injury)/  fayette county distri court, lexington, ky docket no.: 19-f- 02881  t was also charged with  to attempted intimidatin the criminal complaint,  ere dispatched to 1744 c ence. upon arrival, off  spoke little english, an ter identified as carlos g ith her, left the scene sho home at approximately 2 told the officer she igno is intoxicated. she advi ot cause her physical inj ety, she called for police in a purple two door ford",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "assault in the fourth  degree (domestic  violence, minor  injury)"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "ct. 1: 11377(a) h& poss. cs (fel.);  11364.1 h&s, poss cs paraphernalia.  riverside co. sheri dept.",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "h& poss. cs"
+            ],
+            "answer_start": [
+                16
+            ]
+        }
+    },
+    {
+        "context": "ct. 1: felon in  possession of firea (fel.) *  us marshals (ms)  tion is documented on n was able to be found",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "felon in  possession of firea"
+            ],
+            "answer_start": [
+                7
+            ]
+        }
+    },
+    {
+        "context": "driving while  suspended/revoked  (m);  municipal court,  kansas city, mo;  case no.: 832877451",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "driving while  suspended/revoked"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "controlled dangerous substance: possess with intent distribute queen anne's county circuit court, centreville, md docket no.: 17-k-05-006006 12/pleimpyeayea04/par08/arr007wa04/faiwa06/bevio08/senimp09/suvio10/wavio01/suwit40",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "controlled dangerous substance: possess with intent distribute"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "unlawful carrying  weapon  1545657  criminal court no. 1  tarrant county  fort worth, tx  0 g d m a d t was represented by counse fense report revealed on ma m, in fort worth. the defe , and he was detained on t aded glock 22 pistol bearin .085 ounces of marijuana i arius wallace,\" and refused  provided a contact numbe y (busby). busby reported  13",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "criminal court no. 1  tarrant county  fort worth, tx"
+            ],
+            "answer_start": [
+                36
+            ]
+        }
+    },
+    {
+        "context": "felony possession of  child pornography  docket no.  1:04cr376  united states  district court for the  middle district of  north carolina,  greensboro, nc  cts the defendant ente ree related state charges of a minor (docket no. 0 003, forsyth county de on-salem police depar ant. as a result of the chi the defendant's home co pornography.  e defendant's supervising ting the defendant allege sh drive, and mp3 playe o disciplinary infraction al courses: banking, bu iate algebra, decision m nterviewing, credit, hea ng. the defendant's em",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "possession of  child pornography"
+            ],
+            "answer_start": [
+                7
+            ]
+        }
+    },
+    {
+        "context": "driving while  intoxicated (misd)/  county criminal cou at law no. 3, harris  county, tx;  cause no.: 2376399",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "driving while  intoxicated"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "ct. 2: 817.60, poss. stolen credit card  (fel.);",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "poss. stolen credit card"
+            ],
+            "answer_start": [
+                15
+            ]
+        }
+    },
+    {
+        "context": "12500(a) vc:  driving without a  license (ct.  2)(misd.)/ los  angeles superior  court; docket no.:  0pa25408  represented by counsel.  superior court records re",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "los  angeles superior  court"
+            ],
+            "answer_start": [
+                58
+            ]
+        }
+    },
+    {
+        "context": "felony theft-welfare fraud  docket no.  95-1-01410-1  clark county  superior court,  vancouver, wa  d a plea of guilty and was he defendant and angela d. on july 1, 2005, a wa tions of release. accord l 19, 2019. per the clerk case.",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "theft-welfare fraud"
+            ],
+            "answer_start": [
+                7
+            ]
+        }
+    },
+    {
+        "context": "no driver's license  (m);  municipal court,  cape girardeau, mo; docket no.: 01-6493  egarding attorney repre reme court rule 37.50  he defendant of the right e the defendant has mad counsel.  confirm the conviction. issouri police departm d 1993 four-door dodge",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "no driver's license"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "out of place",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "NONE"
+            ],
+            "answer_start": [
+                -1
+            ]
+        }
+    },
+    {
+        "context": "ct 1 - burglary,  third degree  ct 2 - controlled  substance violation/  chickasaw county, ia;  docket no.:  fecr012403  nt reflects that law enforcem esidence, and during the inv y entered anotherÂ’s residenc commit a theft, taking a saf endant to be in possession o oted that the amount of xana unts charging possession of  possession of cannabidiol, a d substance violation were",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "chickasaw county, ia"
+            ],
+            "answer_start": [
+                73
+            ]
+        }
+    },
+    {
+        "context": "dealing in a narcotic drug, felony  im ex delaware circuit  su court; muncie, in  ser 18c01-1503-f3-00004 08 proiss the probable cause affidavit, o ana, sheriff's office facilitat e confidential informant (ci) w he transaction. the defendant m in. the defendant was arrested iolation was filed on december under cause number 18c04-2 023, and remains active.  petition on revocation of super about december 6, 2022, the d 00185.",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "dealing in a narcotic drug"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "dealing in stolen  property  fort lauderdale  police department,  fort lauderdale, fl  an arrest affidavit generat police department, on no motorized scooter and arra was stolen from a residen ed that he was aware that d in this case and was relea 13",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "fort lauderdale police department , fort lauderdale , fl"
+            ],
+            "answer_start": [
+                -1
+            ]
+        }
+    },
+    {
+        "context": "interference with officer d",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "NONE"
+            ],
+            "answer_start": [
+                -1
+            ]
+        }
+    },
+    {
+        "context": "driving under the  influence alcohol/  monroe county  general sessions  court, madisonville,  in;  docket no.: s171669  esentation is unknown. on a on niles ferry road. offic intoxicated, and he crashe driving under the influence 0, 2017, the defendant pled lied consent was dismissed",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "monroe county  general sessions  court, madisonville,  in"
+            ],
+            "answer_start": [
+                39
+            ]
+        }
+    },
+    {
+        "context": "possession of drug  paraphernalia  95cr12098  9th judicial district  court  curry county,  new mexico  esentation is unknown. is time.",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "possession of drug  paraphernalia"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "possession of a  controlled substance  with intent to  distribute -  methamphetamine (f);  circuit court,  dunklin county, mo;  docket no.:  20du-cr00362-01 to of sen rel prosu rev t was represented by counsel.  court records, on march 11 ith the intent to distribute,",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "possession of a  controlled substance  with intent to  distribute -  methamphetamine"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "ct. 1: 4140 bp. sel hypo needle syrin w/o permit (misd.). san diego, ca pd",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "sel hypo needle syrin w/o permit"
+            ],
+            "answer_start": [
+                16
+            ]
+        }
+    },
+    {
+        "context": "use or under the influence of a  ja controlled substance  / superior court,  vista, ca; docket  no. cn094938  entation confirmed this infor r records has been sent to th ting of this report no respons",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "use or under the influence of a  ja controlled substance"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "possession of cocaine (1 to 4 grams) with intent to deliver, felony, hsc 481.112(c)/ 338th district court, harris county, tx; docket no.: 1262077 t was represented by counsethe houston police departity occurring at an apartmeer conducting surveillance e residence and upon entrythe search of the apartment,id codeine, 35 grams of crms of hydrocodone, and 3 grd four firearms, two of whichrous ziploc baggies, and caine residue. the defendan16",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "possession of cocaine (1 to 4 grams) with intent to deliver"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "137-2734a(1): drug  paraphernalia  (misd.)/  canyon county  10",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "canyon county"
+            ],
+            "answer_start": [
+                45
+            ]
+        }
+    },
+    {
+        "context": "ct. 1: 11550(a) h&s,  use/under influence  cs;  ct. 2: 11364 h&s,  poss. cs  paraphernalia;  ct. 3: 12500(a) vc,  drive without license;  ct. 4: 11377(a) h&s,  poss. cs (misd.);  ct. 5: 14601.1(a) vc,  drive while lic. susp.  (misd.).  san diego co. sheriff's  dept.  a bench warrant arrest. the",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "san diego co. sheriff's  dept."
+            ],
+            "answer_start": [
+                236
+            ]
+        }
+    },
+    {
+        "context": "possession with intent to distribute cocaine; baldwin county  co superior court,  pr milledgeville, ga;  docket no.: 48916 09 revcorev revnt was represented by counse ct that on may 19, 2008, the d ocaine indicative of distribution ant was arrested in henry c cocaine and participation in s eleased january 20, 2016, to co o revoke probation was filed  y committing the new crimina d possession of marijuana (les orgia. the petition was modifi he new offense of battery while f disposition of the amended",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "possession with intent to distribute cocaine"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "resisting arrest (m);  circuit court,  cape girardeau  county, mo;  docket no.:  20cg-cr01431",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "resisting arrest"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "illegal entry  (misdemeanor);  u.s. district court fo the southern district o texas, laredo  division; case no.  5:07-po-00234  nt was represented by co eputies with the zapata c conducted a traffic stop",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "illegal entry"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "petit larceny/  wyoming county  court, warsaw, ny;  docket no.: unknown  esentation is unknown. the a",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "wyoming county  court, warsaw, ny"
+            ],
+            "answer_start": [
+                16
+            ]
+        }
+    },
+    {
+        "context": "12020(a) pc:  carrying a dirk and  dagger (fel.)/ los  angeles superior  court; docket no.:  ga035045  represented by counsel.  superior court records re",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "los  angeles superior  court"
+            ],
+            "answer_start": [
+                50
+            ]
+        }
+    },
+    {
+        "context": "unlawful carrying  0 weapon prohibited  d places  jd-82242-w  304th  district court  dallas county  dallas, tx  esentation is unknown.  county, texas, school pol y have not yet been received ourt records revealed on feb ssess or go on the physical chool or an educational inst un, without written authoriza n.",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "304th  district court  dallas county  dallas, tx"
+            ],
+            "answer_start": [
+                62
+            ]
+        }
+    },
+    {
+        "context": "illegal entry  (misdemeanor);  u.s. district court fo the southern district o texas, laredo  division; case no.  5:00-mj-02737-1  to the federal presen 4-001, the defendant  as arrested by deputies as, due to a domestic dist e defendant s removal. by immigration authori was determined the def r or remain in the unite s on july 25, 2000, by wa by an immigration offic s likely the defendant w rom custody in this case warrant or summons for strict of texas, laredo d the defendant s new law n of the special conditio s illegally in this case. o as revoked, and he was s s likely the defendant w om custody in this case,",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "illegal entry"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "possession with intent  to deliver a controlled  substance of one gram  or more, but less than  four grams, namely:  methamphetamine  (lesser included  offense of count one)  1735252d  432nd district court  tarrant county  fort worth, tx  0 g y a t was represented by counse this offense are described in 14",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "432nd district court  tarrant county  fort worth, tx"
+            ],
+            "answer_start": [
+                185
+            ]
+        }
+    },
+    {
+        "context": "ct. 1: commercial  burglary  ct. 2: theft of  property/  pulaski county circuit  court, little rock, ar;  docket no.: cr 19- 4529  t was represented by counse urglarizing the office and pro as, on or about september 2 hours and stole items.",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "pulaski county circuit  court, little rock, ar"
+            ],
+            "answer_start": [
+                57
+            ]
+        }
+    },
+    {
+        "context": "communication with minor for immoral purposes  (gross misdemean superior court of  washington for  king county,  seattle, wa;  docket no.: 11-1- 07154-1 sea  t was represented by sted for rape of a ch s not charged for the",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "communication with minor for immoral purposes"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "assault & battery- family member/  juvenile & domestic  relations court,  richmond, va;  docket no.: ja006394- 08-00  t was represented by counse ssault and upon arrival, offi endant was her ex-husband a he bedroom, following a ve 12",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "juvenile & domestic  relations court,  richmond, va"
+            ],
+            "answer_start": [
+                35
+            ]
+        }
+    },
+    {
+        "context": "ct. 1: driving without a  valid license (m)  texas county circuit  court; houston, mo  case no.: 19te- cr00720  nt waived legal counsel and the welfare of a child and car",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "texas county circuit  court; houston, mo"
+            ],
+            "answer_start": [
+                45
+            ]
+        }
+    },
+    {
+        "context": "driving while  intoxicated/open  alcohol container/  mclennan county  court at law, waco,  tx;  docket no.:  064565cr1  nt was represented by couns nez rodriguez. according t nt did then and there drive id defendant was intoxicat ulties by reason of the intro entration of at least 0.08. it  the above offense, the de ad an open container of an",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "mclennan county  court at law, waco,  tx"
+            ],
+            "answer_start": [
+                53
+            ]
+        }
+    },
+    {
+        "context": "controlled substance  09-1-00709-6  kitsap county  superior court  port orchard, wa  guil yea adju nt was represented by counsel ffense report was requested an",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "controlled substance"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "illegal entry with inspection  u.s. district cour district of new  mexico, las cruc division  docket no.: 13-45 ant was represented ol agents in hidalg he defendant was ille",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "illegal entry with inspection"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "ct. 1: carrying  concealed weapons  ct. 2: drug possession/  cuyahoga county  common pleas court,  cleveland, oh;  docket no.: cr-18- 629607-a  t was represented by counse or a traffic violation. invest na, and a firearm. the defend ment.  adjustment:  on september is failure to report to the prob",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "cuyahoga county  common pleas court,  cleveland, oh"
+            ],
+            "answer_start": [
+                61
+            ]
+        }
+    },
+    {
+        "context": "2) regulated firearm illegal possession",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "regulated firearm illegal possession"
+            ],
+            "answer_start": [
+                3
+            ]
+        }
+    },
+    {
+        "context": "1)driving while  suspended/revoked  (m),",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "driving while  suspended/revoked"
+            ],
+            "answer_start": [
+                2
+            ]
+        }
+    },
+    {
+        "context": "out of place",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "NONE"
+            ],
+            "answer_start": [
+                -1
+            ]
+        }
+    },
+    {
+        "context": "ct. 2: unlawful use of  drug paraphernalia (m)  texas county circuit  court; houston, mo  case no.: 16te- cr00419  7",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "texas county circuit  court; houston, mo"
+            ],
+            "answer_start": [
+                48
+            ]
+        }
+    },
+    {
+        "context": "conspiracy to possess  with intent to  distribute cocaine and  heroin,  01-cr-00709;  united states district  court- puerto rico,  san juan, pr  nt was represented by an  ending on or about octobe ally combine, conspire, and  to-wit: to knowingly and i hedule ii controlled substan edule i controlled substance,",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "united states district  court- puerto rico,  san juan, pr"
+            ],
+            "answer_start": [
+                86
+            ]
+        }
+    },
+    {
+        "context": "abandon or endanger a  child by criminal  negligence (felony);  406th  judicial district  court of webb county;  laredo, texas;  docket no:  2020crd001831-d4  4",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "406th  judicial district  court of webb county"
+            ],
+            "answer_start": [
+                64
+            ]
+        }
+    },
+    {
+        "context": "ct. 1: aggravated  driving under the  influence/no valid  driver license  (felony)/  cook county circuit  court, chicago, il;  docket no.:  13cr13680-01  presentation and offense me juan ruiz. a felony nder the influence of alc btain license after revo divided  highway  an lleging violation of pro 5cr03677-01.",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "aggravated  driving under the  influence"
+            ],
+            "answer_start": [
+                7
+            ]
+        }
+    },
+    {
+        "context": "theft under $1,50 (m); new castle  county superior cour wilmington, de;  case no.: 160802419 o the new castle cou roke into 42 lynch far he made a total of $250  o responded to 108 lync cers that the perpetrato en cabinet. mr. alfaro  26, 2016, officers resp he victim advised offi her daughter s friend) w ieve the defendant enter rom the residence.  g, mr. alfaro was orde tims. he was also orde and treatment.  ng charges were nolle pro ment card under $1500  acquire or attempt to or ).",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "theft under $1,50"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "illegal entry (felony); u.s. district court fo the southern district o texas, laredo  division; case no.  5:09cr00244-001  nt was represented by co usbp agents in zapata.  joint terrorism task fo pata, texas. the search e indicating that undocum nd weapons were being onsent to search the ho ladez, a united states ci e, but the defendant, a m was determined the def r or remain in the unite s on june 15, 2007, witho defendant was arrested a records indicate the  mmencing his term of su del rio, texas, on  erm of supervised releas",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "illegal entry"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "manufacture/delivery cannabis 500 to 2000 grams/ 8",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "manufacture/delivery cannabis 500 to 2000 grams"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "wear, carry and  transport handgun  upon their person/  circuit court of  maryland for  montgomery county, rockville, md;  docket no.: 125325c t was represented by co 4, at approximately 233 ssault in progress. upon  oxy vehicle was seen leav ed a vehicle matching  ffic stop using the equip to pull to the curb imme ched the vehicle and ma ant. he was concealing h f alcohol and fresh marij",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "wear, carry and  transport handgun  upon their person"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "disorderly conduct/  orange county  sheriff's office,  tuxedo, ny;  dkt. no. unknown  ccurred on may 1, 2017 n (second degree) and p umstances of this case a to date.",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "disorderly conduct"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "unlawful  use of payment card  under $1,500 (m);  new castle county  superior court,  wilmington, de;  case no.: 160802265 o the new castle coun o 17 sir thomas lane i motor vehicle. the vict et cruze; one purse; one t the time of the burglar the theft, mr. alfaro w dit cards at a walmart sto ruze.  ictims advised officers  , was homeless after b n august 27, 2016, mr.  r for the night. because  r. alfaro, who was awa ntered the residence.  30, 2016, mr. alfaro  in a car accident on inte g, mr. alfaro was order ndergo substance abuse a ng charges were nolle pr .  er 17, 2016, mr. alfaro w",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "unlawful  use of payment card  under $1,500"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "falsification of dr test results  481.133 brazoria county c at law #3,  angleton, tx;  docket no.: 231,8 t was represented b e angleton, texas po an offense report wa eceived.  tory computation  convictions above re inal history score is f iminal history score  nal conduct  rges   s   charge  unauthorized use vehicle",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "falsification of dr test results"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "possession of a  controlled substance  in penalty group 1 <  gram (f)/  24th district court,  dewitt county, cuero tx;  docket no.: 07-07- 10675  nt was represented by c djudicate was filed but s ent charges that on or a lawfully, intentionally, a ne, in an amount, includ",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "possession of a  controlled substance"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "illegal entry/  united states dist court, laredo, tx docket no.:  5:19po02120-1  t was represented b nited states through  ration documentation o incarceration: th he was deported to m tory computation   convictions above re inal history score is t iminal history score  nal conduct   records note the de casions: may 7, 201 ifornia; and july 23,  rges  s",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                ""
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "count 2: possession of 05cds with intent to distribute/new jersey cosuperior court, essex 00county, newark, nj; codocket no. 14-04-01002-i 05mafelony conviction is a contros a career offender, pursuantonal drug counts were dismisscredit for custodial dates januaby ann r. sorrel of the public d",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "possession of 05cds with intent to distribute"
+            ],
+            "answer_start": [
+                9
+            ]
+        }
+    },
+    {
+        "context": "ct. 1: loitering and  prowling (misd.).  daytona beach, fl,  pd",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "daytona beach, fl,  pd"
+            ],
+            "answer_start": [
+                41
+            ]
+        }
+    },
+    {
+        "context": "possession of a controlled substance with intent to deliver more than 4 grams less than 200 grams 2012436187 364th district court clerk lubbock, texas 05/guilyea03/paro08/2expt was represented by counsel. aendant was in possession witcustody is unknown. the defe offense. additional violations",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "possession of a controlled substance with intent to deliver more than 4 grams less than 200 grams"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "failure to appear  general district court,  fairfax county, va  docket no.:  gt17011144-01  the capias, the defendant fa cense 2nd offense (gt1700",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "general district court,  fairfax county, va"
+            ],
+            "answer_start": [
+                19
+            ]
+        }
+    },
+    {
+        "context": "burglary of building  323-100814-j14  323rd judicial court  tarrant county  fort worth, tx  g d m t was represented by counse th, texas, police departmen er was dispatched regarding rt worth. the caller reporte bserved the defendant run ou und; however, he refused an 1",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "323rd judicial court  tarrant county  fort worth, tx"
+            ],
+            "answer_start": [
+                38
+            ]
+        }
+    },
+    {
+        "context": "1)felony firearms not  to be carried without  a license  2) misdemeanor carry  firearms in public in  philadelphia  docket no.  cp-51-cr-0006492- 2016  first judicial district  of pennsylvania,  philadelphia, pa  ecords reflect the defendan es occurred on june 18,  firearm in his vehicle; howe eported the firearm did not b did not know the firearm w lty because the state of pen nt stated he was already in j a.  defendantÂ’s supervision of ndant was detained since his  served on his active senten ant to return to montgome he had. the defendantÂ’s s or absconding was issued on s contacted by an agent wi e instant offense. the defe 2, 2022.",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "first judicial district  of pennsylvania,  philadelphia, pa"
+            ],
+            "answer_start": [
+                152
+            ]
+        }
+    },
+    {
+        "context": "weapons other/  circuit court of md  for prince george's  county, upper  marlboro, md;  docket no.:  ct060407x  esentation is unknown. t",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "weapons other"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "resisting arrest (m);  circuit court,  cape girardeau  county, mo;  docket no.:  32r059900765  t was represented by cou court records, on may 1 officers were making an  d the defendant, knowin eventing the officers fro ers.  egarding the defendant' s privately supervised by probation included com g all laws, submitting to beverages is the primar stances except those pre n officer, enroll in ged 6:00am the next day unle",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "resisting arrest"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "theft/  jasper county circuit  court, newton, il;  docket no.:  2006-cf-26  t was represented by counse the information, on may 25, operty of p.b. finley, being re was received by the idoc 08; however, he was returned in effingham county circu 22",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "jasper county circuit  court, newton, il"
+            ],
+            "answer_start": [
+                8
+            ]
+        }
+    },
+    {
+        "context": "no insurance (m);  cape girardeau  municipal court,  cape girardeau, mo; docket no.:  980682208  cords confirm the convi een received.",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "no insurance"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "count 1: possession o controlled substance  with intent to sell  (felony)  count 2: participate in criminal street gang  (felony)/fresno coun superior court, fresn ca; docket no.:  f12903393  the fresno county sheri 012, deputies received a  onymous due to fear o s a wanted parolee and  mphetamine while in pos s staying at 3839 e. bu ford mustang.  nformation, officers con ortly, after the officers  from the target location. o ated by the sole male occ ford mustang verbally was a friend of the def wife since they had been",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "possession o controlled substance  with intent to sell"
+            ],
+            "answer_start": [
+                9
+            ]
+        }
+    },
+    {
+        "context": "ct. 3: operate  motorcycle without a valid driver license  (misdemeanor)/  broward county cler of court, margate, fl docket no.:  22013117tc10a  esentation is unknown. s misdemeanor counts of  d. according to a repre in court costs. offense d tory computation   convictions above result inal history score is zero iminal history score of z nal conduct   rges",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "operate  motorcycle without a valid driver license"
+            ],
+            "answer_start": [
+                7
+            ]
+        }
+    },
+    {
+        "context": "3) discharge firearm  urban area/  circuit court of  maryland for  montgomery county, rockville, md;  docket no.: c-15-cr 23-000656  t was represented by co 23, police responded to  ute that just occurred. u advised the following:  dvised she was visiting  land, and received a tex her location to find a bla the message said the v im did not want to do  victim stated that the de victim also confirmed t it.  y 30 minutes after receiv a white tow truck atte hicle to tell the tow truc driver of the tow truck, s",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "discharge firearm  urban area"
+            ],
+            "answer_start": [
+                3
+            ]
+        }
+    },
+    {
+        "context": "ct. 1: 11378 h&s,  poss. cs for sale  (fel.).  san diego co. sheriff's  dept.",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "san diego co. sheriff's  dept."
+            ],
+            "answer_start": [
+                47
+            ]
+        }
+    },
+    {
+        "context": "ct. 2: 11377(a) h& poss. cs (misd.);",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "h& poss. cs"
+            ],
+            "answer_start": [
+                16
+            ]
+        }
+    },
+    {
+        "context": "disorderly conduct/  orange county  sheriff's office,  tuxedo, ny;  dkt. no. unknown  ccurred on may 1, 2017. th n (second degree) and pled  umstances of this case are u to date.  - 12",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "orange county  sheriff's office,  tuxedo, ny"
+            ],
+            "answer_start": [
+                21
+            ]
+        }
+    },
+    {
+        "context": "armed robbery/  maricopa county  superior court,  phoenix, az;  docket no.: cr1999- 015921  t was represented by co lices entered a residence t included appliances, e ack bedroom; however, t",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "armed robbery"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "possession of a  controlled substan penalty group 1 < [t.h.s.c. 481.115 329'1' wharton cou district court,  wharton, tx;  docket no.: cr15 t was represented b e el campo, texas",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "possession of a  controlled substan"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "664-459 pc:  attempted 2nd  degree  burglary (fel.)/ los  angeles superior  court; docket no.:  ga046126  represented by counsel.  superior court records re ditionally, negrete was ch nd",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "los  angeles superior  court"
+            ],
+            "answer_start": [
+                53
+            ]
+        }
+    },
+    {
+        "context": "aiding and abetting  possession with  intent to distribute  marijuana  pe:16-cr-00087- prm(3)  13 m and rele com",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "aiding and abetting  possession with  intent to distribute  marijuana"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "burglary fourth  degree dwelling/  circuit court of  maryland for baltimo county, towson, md docket no.: 03-k-17- 001509  t was represented by co 7, baltimore county p e department witnessed unty jurisdiction. police urt, baltimore, maryla a series of residential  nty that occurred over a as stolen and later pawn cting surveillance on the baltimore county and y 1845 hours, the three police and walking to th",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "burglary fourth  degree"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "failure to  pay fare  (misdemeanor)/  king county  district court,  seattle, wa;  docket no.:  ist007931  t waived counsel. de with the documents r tory computation  minal history score is iminal history score  nal conduct  rges   s   er characteri ion obtained in this nterview. a source  as not completed due family data  -galvan was born on union of everardo ba ndant s father is emp t grocery store. bot mexico. the defenda e did not report any  ship with his parents",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "failure to  pay fare"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "ct.1: unlawful taking  of vehicle (felony)  ct. 2: first degree  residential burglary  (felony)  ct. 3: grand theft  auto (felony)  ct. 4: first degree  (felony)  ct. 5: false  representation to  peace officer  (misdemeanor)  ct. 6: resist and  obstruct officer  (misdemeanor)/  orange county  superior court, santa  ana, ca;  docket no.: 03nf3394  t was represented by counsel the information, on or abo k a 2000 chevy tahoe, not nt to temporarily and perm the vehicle. on or about s tered an inhabited dwelling bited by victim robert and l or about september 28, 200 mobile of victim robert per 5",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "orange county  superior court, santa  ana, ca"
+            ],
+            "answer_start": [
+                279
+            ]
+        }
+    },
+    {
+        "context": "ct. 3: 11364 h&s,  poss. cs paraphern",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "poss. cs paraphern \n\nCONTEXT\nct. 4: 14601.1(a) v drive while lic. su (misd.);  \nANSWER:\nv drive while lic. su"
+            ],
+            "answer_start": [
+                -1
+            ]
+        }
+    },
+    {
+        "context": "1) reckless driving",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "reckless driving"
+            ],
+            "answer_start": [
+                3
+            ]
+        }
+    },
+    {
+        "context": "driving under the  influence of alcohol/  district court of  maryland for  montgomery county, rockville, md;  docket no.: 0xb0st nt was represented by",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "driving under the  influence of alcohol"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "ct. 1: possession of  controlled substance  marijuana/spice, clas b misd./  north logan - hyde  park justice court,  hyde park, ut;  docket no.:  221600046  t was represented by cou",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "possession of  controlled substance  marijuana"
+            ],
+            "answer_start": [
+                7
+            ]
+        }
+    },
+    {
+        "context": "purchase, etc.,  alcoholic beverage  by a minor/  magisterial district  court 05-3-09,  clairton, pa;  docket no.: mj-05309- nt-1168-2013 ple se pa co (pa the glassport police departme ed to a home on ohio avenue i tting on the home's front porch  location, they encountered a  teps, and they observed multip equested all of the individuals' i tanner yeager (age 18) were a dor of alcohol emanating from eech when he responded to th e was under arrest for underag o blame because he purchased her. the officers then placed s ately, the officers drove yeager ernon yeager, and informed y summons, respectively, by ma",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "purchase, etc.,  alcoholic beverage  by a minor"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "robbery  [t.p.c. 29.02];  329'1' wharton co district court,  wharton, tx;  docket no.: 11,93",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "robbery"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "possession of a  controlled substan penalty group 1 < drug free zone  [t.h.s.c. 481.115 329th  wharton cou district court,  wharton, tx;  docket no.: cr16 was represented by  mpo, texas police d alty group 1 < 1g  gency, but as of this",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "possession of a  controlled substan"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "bail jumping and  failure to appear (m) dewitt county court  law 3, cuero, tx;  docket no.: 2009- 16379  ant waived her right to charges that the defend ly released from custody onally and knowingly fa wit: the defendant did  4, 2009, and for which a misdemeanor, to-wit:",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "bail jumping and  failure to appear"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "cts. 1 & 2: disorderly  conduct: loiter/etc.  private property  (misdemeanor)/  santa ana sheriff's  department, santa  ana, ca;  docket no.: 2073187- 1095206  esentation is unknown. ar sed criminal records. arrest",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "santa ana sheriff's  department, santa  ana, ca"
+            ],
+            "answer_start": [
+                80
+            ]
+        }
+    },
+    {
+        "context": "ct. 1: 11377(a) h&s,  poss. cs (fel.);  ct. 2.: 11378 h&s,  poss. cs for sale  (fel.);  ct. 3: 11364 h&s,  poss. cs  paraphernalia.  san diego co. sheriff's  dept.  ed an arrest warrant on the d of his contact with law enfor ethamphetamine. the defend kitchen counter was a \"line\" artment and found the follo rystalline substance (.8 and  es; two fake soda cans; and  nt was placed under arrest.  the defendant told officers h ing methamphetamine daily t was from his social securi o the plea the defendant adm ent to sell it.Â”",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "san diego co. sheriff's  dept."
+            ],
+            "answer_start": [
+                133
+            ]
+        }
+    },
+    {
+        "context": "attempted theft (f);  johnson county  district court,",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "attempted theft"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "2)no insurance (m);  municipal court,",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "no insurance"
+            ],
+            "answer_start": [
+                2
+            ]
+        }
+    },
+    {
+        "context": "expulsion  (misdemeanor)/  bexar county 289th  district court;  san antonio, tx;  docket no.:  2005juv01494  t was represented by counse court records, the defendan while placed in an alternativ nformation received.  tÂ’s probation was extended a end school every day and fo 6",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "bexar county 289th  district court;  san antonio, tx"
+            ],
+            "answer_start": [
+                27
+            ]
+        }
+    },
+    {
+        "context": "tamper with/fabr physical evidence [t.p.c. 37.09(a)]: 329th  wharton co district court,  wharton, tx;",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "tamper with/fabr physical evidence"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "ct. 3: 11378 h&s,  poss. cs for sale  (fel.).  san diego co. sher dept.",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "poss. cs for sale"
+            ],
+            "answer_start": [
+                19
+            ]
+        }
+    },
+    {
+        "context": "possession of  marihuana;  332nd district court,  edinburg, tx;  docket no.: cr-2364 04-f  resentation is unknown.  se are unknown. offense his writing, no response",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "possession of  marihuana"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "possession of  marijuana (m);  municipal court,  kansas city, mo;  case no.: 2g042580  s of the offense are unkn for probation adjustmen",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "possession of  marijuana"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "misdemeanor  disorderly conduct  docket no.:  unknown  meadville, pa  arge for misdemeanor sim known about this case.",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "meadville, pa"
+            ],
+            "answer_start": [
+                55
+            ]
+        }
+    },
+    {
+        "context": "driving or control of vehicle while under influence of alcohol - first offense; seventh judicial circuit court, pennington county, rapid city, sd 51cri18-002445 t was represented by counsel a",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "driving or control of vehicle while under influence of alcohol"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "ct. 1: assault on a  law enforcement  officer,  ct. 2: criminal  mischief  broward county  sheriff's office,  fort lauderdale, fl  , 2016, officers from th traffic stop, when the defe o yell, \"fuck y'all, i'm a s s actions causing vehicles ehicles and yell, \"that's h ctions caused law enforce op and address vidale. th hat of the other motorists  was sweating profusely. t mands for the defendant to defendant continued yellin s to a stop in concern. th which point the law enfor ot eyes and a heavy odor orcement officer placed th cle of a patrol car. while  yell, \"i'm going to fuc ntinued to advise that he  g his head and kick at the  defendant successfully  ned window and partition, forcement officer was co y to himself or further pr oor in an attempt to further went around the other side going to fuck you up and a . the defendant had no b ng the defendant the oppor nt attempted to kick the law  enforcement officer deplo ve defendant. after the  17",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "broward county  sheriff's office,  fort lauderdale, fl"
+            ],
+            "answer_start": [
+                75
+            ]
+        }
+    },
+    {
+        "context": "487(a) pc: grand  theft (ct. 1)(fel.)/  los angeles superior  1",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "los angeles"
+            ],
+            "answer_start": [
+                40
+            ]
+        }
+    },
+    {
+        "context": "driving under  suspension/  wagoner county  district court case t 2020-00003;  tulsa, ok  s arrest are not available. story computation   minal history score is one a criminal history score  arges  charge  driving under  suspension (2nd  offense);  tulsa county district",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "driving under  suspension"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "controlled dangerous substance â€“ manufacture/distribute /possession with intent to distribute marijuana less than 10 ounces; superior court of new jersey, camden county, camden, new jersey; docket no. cam940300813a 05prdrsu- 20 -",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "controlled dangerous substance â€“ manufacture/distribute /possession with intent to distribute marijuana less than 10 ounces"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "1)driving while  suspended/revoked  (m),",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "driving while  suspended/revoked"
+            ],
+            "answer_start": [
+                2
+            ]
+        }
+    },
+    {
+        "context": "delivery of a  controlled substance  crack cocaine (f);  circuit court,  cape girardeau  county, mo;  docket no.:  32r059901938-01  t was represented by cou court records, on decem knowingly delivered cra ed.  records received from  rated, the defendant co gram, participated in g s a general laborer. he i nduct, violating an institu records received from th rvision, the defendant in and cocaine (2), failing t nd substance abuse trea ent at gibson recovery e, and committing new  he cape girardeau, miss 32r0500001938-01; and issouri police departme 01737-01.",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "delivery of a  controlled substance  crack cocaine"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "ct. 1. 11379 h&s,  transp. cs;  ct. 2.: 11378 h&s, poss. cs for sale  (fel.).  san diego co. sher dept.  o the plea the def mine intending to sell",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "transp. cs"
+            ],
+            "answer_start": [
+                19
+            ]
+        }
+    },
+    {
+        "context": "resisting arrest (m);  circuit court,  cape girardeau  county, mo;  docket no.:  32r050001938-01",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "resisting arrest"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "conspiracy to  distribute 50 grams o more of  methamphetamine  (felony)/ u.s. district court, western distri of missouri, kansas  city, mo; docket no 4:10-cr-00094-dgk- t was represented by c ccording to the criminal f methamphetamine to  initially approached c who directed him to th arrange for a second purc the quality of the metha quantity of methamphet defendant and codefend tore where the defendan ducted a traffic stop  mine under the front pa ey also conducted a traff ams of methamphetamin nt invoked his rights and y. the codefendant ind m chihuahua, mexico,  mine from aurora, colo to sell methamphetamin h 21, 2010, when the de arranged for a second p methamphetamine and a",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "conspiracy to  distribute 50 grams o more of  methamphetamine"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "robbery (third degree bronx supreme court bronx, ny;  docket no.: 00945- 2017  occurred on april 14,  ession of a weapon (se by another). he pled s of this case are unkn te.  adjustment  tly on probation supervi t on occasion. he was al al conduct. no violation fense. the defendant s p of the plea agreement in  new york state arising  will not oppose a reques n concurrently to any",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "robbery"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "narcotic and drug  related violations,  36th district court,  detroit, mi  docket no.:  u54640209 gu $4 co w requires that the court advi y.  es surrounding this offense w",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "narcotic and drug  related violations"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "possession of a  controlled substance  with intent to deliver  more than 4 grams  less than 200 grams 364th district court  clerk  lubbock, texas  guil yea paro exp t was represented by counsel. a endant was in possession wit custody is unknown. the defe  offense. additional violations",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "possession of a  controlled substance  with intent to deliver"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "run from police  (misdemeanor)  superior court,  bristol, ct;  docket no.: h17b- mv18-0245994-s  records, the offense occur e unknown. according to  9",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "superior court,  bristol, ct"
+            ],
+            "answer_start": [
+                32
+            ]
+        }
+    },
+    {
+        "context": "2)no insurance (m);  municipal court,  kansas city, mo;  case nos.: 110853199 & 110853234  ords reflect that the def driving while suspended ords confirm that the cou dant had to pay his fine/ to serve any of his origin",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "no insurance"
+            ],
+            "answer_start": [
+                2
+            ]
+        }
+    },
+    {
+        "context": "possession of a  controlled substance,  randolph county  magistrate court,  elkins, wv  docket no.:  17-m-111 repl jaim co co co se cont was represented by phillip the criminal complaint, on j the defendant was unconscio had damage to the ride side ke up the defendant, who pro d three small bags of metham",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "possession of a  controlled substance"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "domestic battery/  jasper county circuit  court, newton, il;  docket no.:  2005-cm-56  the information, on june 1 ulting nature with alisha fo pted to prevent alisha for unt 2). the charge of unlaw unt 2) was dismissed. it is n 5op23. on april 17, 2006,  mmitted the offense of theft",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "jasper county circuit  court, newton, il"
+            ],
+            "answer_start": [
+                19
+            ]
+        }
+    },
+    {
+        "context": "no insurance (m);  municipal court,  cape girardeau, mo; docket no.: 03-2695  egarding attorney repre reme court rule 37.50  he defendant of the right e the defendant has mad counsel.",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "no insurance"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "illegal re-entry into the  united states after  deportation/  united states district  court, western district  of texas, del rio  division, tx;  docket no.: dr-10- cr-0066-001am  nt was represented by cou ong with six illegal aliens,  iles east of del rio, texa was detained after a short fo ip and he admitted he was a als, did not have any docum s legally. the defendant, al border patrol station for fur eak with agents without the  nt, along with a group of  r, via a boat, near the del r gh the brush and waited fo mputerized records check r ons by border patrol agents",
+        "question": "what is the courthouse address?",
+        "answers": {
+            "text": [
+                "united states district  court, western district  of texas, del rio  division, tx"
+            ],
+            "answer_start": [
+                62
+            ]
+        }
+    },
+    {
+        "context": "driving while  suspended/revoked  (m);  municipal court,  kansas city, mo;  case no.: 200065743 4a1.2(a)(2)(b), this sent 098927 below because  mmissions of each of t e same date.",
+        "question": "What offense was committed?",
+        "answers": {
+            "text": [
+                "driving while  suspended/revoked"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    }
+]
