@@ -2,31 +2,31 @@ CONTEXT:
  controlled substance- possession with intent  pro to deliver less than  50 grams of cocaine/
 
 ANSWER:
- controlled substance - possession with intent pro to deliver less than 50 grams of cocaine
+controlled substance- possession with intent  pro to deliver less than  50 grams of cocaine
 
 CONTEXT:
 : possession of  controlled dangerous substance (cocaine) with  intent,
 
 ANSWER:
-possession of  controlled dangerous substance (cocaine) with  intent,
+possession of  controlled dangerous substance (cocaine) with  intent
 
 CONTEXT:
  possession of a  controlled substance  with intent to deliver  more than 4 grams  less than 200 grams 
 
 ANSWER:
- possession of a controlled substance with intent to deliver more than 4 grams less than 200 grams
+possession of a  controlled substance  with intent to deliver  more than 4 grams  less than 200 grams
 
 CONTEXT:
-possession with  intent to distribute  a controlled  substance, and  possession with  intent to distribute  a controlled  substance within  1,000 feet of a  school/
+possession with  intent to distribute  a controlled  substance within  1,000 feet of a  school/
 
 ANSWER:
-possession with  intent to distribute  a controlled  substance, and  possession with  intent to distribute  a controlled  substance within  1,000 feet of a  school
+possession with  intent to distribute  a controlled  substance within  1,000 feet of a  school
 
 CONTEXT:
  possession of a controlled substance pr with intent to  manufacture or deliver/  to 
 
 ANSWER:
- possession of a controlled substance pr with intent to manufacture or deliver
+possession of a controlled substance pr with intent to  manufacture or deliver
 
 CONTEXT:
  possession of a  controlled substance:  amphetamine, with  intent to deliver  35047a  
@@ -38,7 +38,7 @@ CONTEXT:
  08 pleseim of an assst relpr vio relre sch co sen w nu possession with intent  to distribute a quantity  of a mixture and  substance containing a  detectable amount of  fentanyl; and a  quantity of a mixture  and substance  containing a  detectable amount of  cocaine base/  
 
 ANSWER:
- possession with intent to distribute a quantity of a mixture and substance containing a detectable amount of fentanyl
+possession with intent  to distribute a quantity  of a mixture and  substance containing a  detectable amount of  fentanyl; and a  quantity of a mixture  and substance  containing a  detectable amount of  cocaine base
 
 CONTEXT:
  controlled dangerous  substance –  manufacture/distribute  /possession with intent  to distribute marijuana  less than 10 ounces;  
@@ -47,10 +47,16 @@ ANSWER:
 controlled dangerous  substance –  manufacture/distribute  /possession with intent  to distribute marijuana  less than 10 ounces
 
 CONTEXT:
- controlled dangerous  substance –  manufacture/distribute  /possession with intent  to distribute marijuana  less than 10 ounces;  
+ controlled dangerous  substance –  manufacture/distribute  /possession with intent  to distribute marijuana  less than 10 ounces;
 
 ANSWER:
 controlled dangerous  substance –  manufacture/distribute  /possession with intent  to distribute marijuana  less than 10 ounces
+
+CONTEXT:
+ kilograms of cocaine  within 1,000 feet of a  protected location, in  violation of title criminal case. no.  10-245-20 (fab)  se of yeco of (tse rev se yeex th the plea agreement stipula a seller within the drug traff et quantity amounts of heroin tiple kilograms of said drugs w he plea agreement, ms. valle-d e possessed with intent to distrib ilograms of cocaine.  017, the us probation office fil release alleging the defendant stances. on august 10, 2017, th aring conceding to probable c ith persons engaged in crimina and violation of condition no.  aw enforcement. on decembe she was sentenced to time-ser 14
+
+ANSWER:
+kilograms of cocaine  within 1,000 feet of a  protected location, in  violation of title criminal case
 
 CONTEXT:
  unlawful possession of  a controlled substance  with the intent to  deliver, to-wit: cocaine  4 grams  f-0940895  
@@ -62,19 +68,19 @@ CONTEXT:
  possession of cocaine  (1 to 4 grams) with  intent to deliver,  felony, hsc  (c)/  
 
 ANSWER:
-possession of cocaine  (1 to 4 grams) with  intent to deliver,  felony,
+possession of cocaine  (1 to 4 grams) with  intent to deliver,  felony
 
 CONTEXT:
  : possession of controlled dangerous substance with intent to  inc distribute/
 
 ANSWER:
-possession of controlled dangerous substance with intent to inc distribute
+possession of controlled dangerous substance with intent to  inc distribute
 
 CONTEXT:
  possession of a  controlled substance,  to-wit: cocaine, with  intent to deliver 200  grams or more but less  than 400 grams, as  reduced from 400  grams or more - felony 
 
 ANSWER:
-possession of a  controlled substance,  to-wit: cocaine, with  intent to deliver 200  grams or more but less  than 400 grams, as  reduced from 400  grams or more - felony
+possession of a  controlled substance,  to-wit: cocaine, with  intent to deliver 200  grams or more but less  than 400 grams
 
 CONTEXT:
  controlled dangerous  substance: possess  with intent distribute  
@@ -101,10 +107,10 @@ ANSWER:
 criminal  possession of a  controlled substance -  3rd: narcotic drug  with intent to sell  - felony
 
 CONTEXT:
- : possession of with intent  to dist c/substance  - felony (felony);
+ : possession of with intent  to dist c/substance  - felony (felony);,
 
 ANSWER:
- possession of with intent to dist c / substance - felony
+possession of with intent  to dist c/substance  - felony
 
 CONTEXT:
 : possession of  controlled dangerous substance (cocaine) with  intent,
@@ -122,7 +128,7 @@ CONTEXT:
  unlawful possession of  a controlled substance  with the intent to  deliver, to-wit: cocaine  4 grams  f-0940895  
 
 ANSWER:
- unlawful possession of a controlled substance with the intent to deliver
+unlawful possession of  a controlled substance  with the intent to  deliver, to-wit: cocaine  4 grams
 
 CONTEXT:
  possession of cocaine  (1 to 4 grams) with  intent to deliver,  felony, hsc  (c)/  
@@ -152,7 +158,7 @@ CONTEXT:
  possession of a  controlled substance  with intent to deliver  more than 4 grams  less than 200 grams 
 
 ANSWER:
- possession of a controlled substance with intent to deliver more than 4 grams less than 200 grams
+possession of a  controlled substance  with intent to deliver  more than 4 grams  less than 200 grams
 
 CONTEXT:
  :  accessory after the  fact to possession of  heroin with the intent  to distribute - felony 
@@ -161,10 +167,10 @@ ANSWER:
 accessory after the  fact to possession of  heroin with the intent  to distribute - felony
 
 CONTEXT:
- operating motor  vehicle .10 of 1%  alcohol/
+ operating motor  vehicle.10 of 1%  alcohol/  
 
 ANSWER:
-operating motor  vehicle .10 of 1%  alcohol
+operating motor  vehicle.10 of 1%  alcohol
 
 CONTEXT:
  07 ser ye unviovio drive w/.08% blood alcohol content or  higher
@@ -179,22 +185,22 @@ ANSWER:
 reckless driving  (alcohol related)
 
 CONTEXT:
- operating motor  vehicle with.08 of 1%  alcohol or more in  blood pr un pr on 
+ operating motor  vehicle with .08 of 1%  alcohol or more in  blood pr un pr on
 
 ANSWER:
- operating motor vehicle with . 08 of 1 % alcohol or more in blood
+operating motor  vehicle with .08 of 1%  alcohol or more in  blood
 
 CONTEXT:
- operating motor  vehicle.10 of 1%  alcohol/  
+ operating motor  vehicle .10 of 1%  alcohol/
 
 ANSWER:
-operating motor  vehicle.10 of 1%  alcohol
+operating motor  vehicle .10 of 1%  alcohol
 
 CONTEXT:
- controlled substances - 04 delivery/manufacture  jai (narcotic or cocaine)  pr less than 50 grams/  
+ controlled substances delivery/manufacture  jai (narcotic or cocaine)  pr less than 50 grams/
 
 ANSWER:
-controlled substances - 04 delivery/manufacture
+controlled substances delivery/manufacture  jai (narcotic or cocaine)  pr less than 50 grams
 
 CONTEXT:
  03 se im 5 y  co03 re filvio rev fohehem sehehehehehehehehem se manufacture/delivery  of a controlled  substance: cocaine  - felony 
@@ -218,13 +224,13 @@ CONTEXT:
  battery: touch or  strike/  
 
 ANSWER:
- battery : touch or strike
+battery: touch or  strike
 
 CONTEXT:
  : domestic assault  2nd degree- felony (f)
 
 ANSWER:
- domestic assault  2nd degree- felony
+domestic assault  2nd degree- felony
 
 CONTEXT:
  assault on a public  servant - felony 
@@ -242,43 +248,31 @@ CONTEXT:
  assault on a federal  officer/  
 
 ANSWER:
- assault on a federal officer
+assault on a federal  officer
 
 CONTEXT:
- : failure to  comply with an order  or signal of police  officer/,
+: assault(f)
 
 ANSWER:
- failure to comply with an order or signal of police officer
-
-CONTEXT:
- : failure to  comply with an order  or signal of police  officer/,
-
-ANSWER:
- failure to comply with an order or signal of police officer
+assault
 
 CONTEXT:
  assault on a  federal officer ,
 
 ANSWER:
- assault on a federal officer
+assault on a  federal officer
 
 CONTEXT:
  third degree assault –  know/reckless cause  injury  
 
 ANSWER:
- third degree assault – know / reckless cause injury
+third degree assault –  know/reckless cause  injury
 
 CONTEXT:
  :  corporal injury to  spouse or cohabitant  (misd.)(
 
 ANSWER:
- corporal injury to spouse or cohabitant
-
-CONTEXT:
- battery- touch or  strike/  
-
-ANSWER:
- battery - touch or strike
+corporal injury to  spouse or cohabitant
 
 CONTEXT:
  second degree  assault - drugging  victim - felony 
@@ -299,10 +293,10 @@ ANSWER:
 force/assault  with a deadly weapon  not firearm great  bodily injury likely  - felony
 
 CONTEXT:
- : ,  force/assault with a  deadly weapon not  firearm - great bodily  injury likely
+ : ,  force/assault with a  deadly weapon not  firearm - great bodily  inj. likely
 
 ANSWER:
-force/assault with a  deadly weapon not  firearm - great bodily  injury likely
+force/assault with a  deadly weapon not  firearm - great bodily  inj. likely
 
 CONTEXT:
  : threat to  commit crime  (assault & battery with  dangerous weapon -  gun),
@@ -320,44 +314,43 @@ CONTEXT:
  agg assault  date/family/house  w/weapon; 
 
 ANSWER:
- agg assault date / family / house w / weapon
+agg assault  date/family/house  w/weapon
 
 CONTEXT:
  : aggravated  unlawful use of a  weapon/
 
 ANSWER:
- aggravated unlawful use of a weapon
+aggravated  unlawful use of a  weapon
 
 CONTEXT:
  : aggravated  unlawful use of a  weapon/
 
 ANSWER:
- aggravated unlawful use of a weapon
+aggravated  unlawful use of a  weapon
 
 CONTEXT:
  assault with intent to  rob while unarmed/  
 
 ANSWER:
- assault with intent to rob while unarmed
+assault with intent to  rob while unarmed
 
 CONTEXT:
  possession of  firearm, ammunition,  or electric weapon by  convicted felon; ,
 
 ANSWER:
- possession of firearm , ammunition , or electric weapon by convicted felon
+possession of  firearm, ammunition,  or electric weapon by  convicted felon
 
 CONTEXT:
  force/assault with a  deadly weapon not  firearm: great bodily  injury - felony 
 
 ANSWER:
- force/assault with a  deadly weapon not  firearm: great bodily  injury - felony
-
+force/assault with a  deadly weapon not  firearm: great bodily  injury - felony
 
 CONTEXT:
- battery of a person  over 65 years of age  - felony (felony)/
+ battery of a person  over 65 years of age  - felony (felony)/,
 
 ANSWER:
-battery of a person over 65 years of age - felony
+battery of a person  over 65 years of age  - felony
 
 CONTEXT:
  assault and battery  of a police officer  - felony (felony),
@@ -369,13 +362,13 @@ CONTEXT:
  domestic battery -  physical contact,  cr. no. 07120635501  
 
 ANSWER:
- domestic battery - physical contact
+domestic battery -  physical contact
 
 CONTEXT:
  vehicular assault  (f)  (,
 
 ANSWER:
- vehicular assault
+vehicular assault
 
 CONTEXT:
  : partner or family  member assault  - felony (felony)
@@ -411,31 +404,37 @@ CONTEXT:
  domestic violence- knowingly cause  physical harm/  
 
 ANSWER:
- domestic violence- knowingly cause  physical harm
+domestic violence- knowingly cause  physical harm
 
 CONTEXT:
  force/assault with  deadly weapon not  firearm: great bodily  injury likely  
 
 ANSWER:
- force/assault with  deadly weapon not  firearm: great bodily  injury likely
+force/assault with  deadly weapon not  firearm: great bodily  injury likely
 
 CONTEXT:
  assault with deadly  weapon not firearm:  great bodily injury- felony  
 
 ANSWER:
- assault with deadly  weapon not firearm:  great bodily injury- felony
+assault with deadly  weapon not firearm:  great bodily injury- felony
 
 CONTEXT:
  : violation of  protection order ,
 
 ANSWER:
- violation of protection order
+violation of  protection order
+
+CONTEXT:
+ : ,  corporal injury to  spouse/cohab./child's  parent with prior  los angeles, ca  cacj  o court records, avalo itant conviction in los ang iminal conduct).  ,
+
+ANSWER:
+corporal injury to  spouse/cohab./child's  parent
 
 CONTEXT:
  assault by prisoner  (), felony/  
 
 ANSWER:
- assault by prisoner
+assault by prisoner  (), felony
 
 CONTEXT:
  -  force/assault with  deadly weapon not  firearm: great bodily  injury likely, felony/  
@@ -465,29 +464,29 @@ CONTEXT:
  : driving  with suspended  license/ 
 
 ANSWER:
- driving with suspended license
+driving  with suspended  license
 
 CONTEXT:
  assault with deadly  weapon, not firearm -  great bodily injury ,
 
 ANSWER:
- assault with deadly weapon , not firearm - great bodily injury
+assault with deadly  weapon, not firearm -  great bodily injury
 
 CONTEXT:
  battery on a law  enforcement officer  - felony 
 
 ANSWER:
- battery on a law  enforcement officer  - felony
+battery on a law  enforcement officer  - felony
 
 CONTEXT:
  burglary of a  structure/conveyance:  involving assault or  battery - felony 
 
 ANSWER:
- burglary of a structure / conveyance : involving assault or battery - felony
+burglary of a  structure/conveyance:  involving assault or  battery - felony
 
 CONTEXT:
  assault on a public  servant - felony 
 
 ANSWER:
- assault on a public  servant - felony
+assault on a public  servant - felony
 
