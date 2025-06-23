@@ -1,0 +1,986 @@
+[
+    {
+        "context": "controlled substance- possession with intent  pro to deliver less than  50 grams of cocaine/",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "controlled substance- possession with intent  pro to deliver less than  50 grams of cocaine"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": ": possession of  controlled dangerous substance (cocaine) with  intent,",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "possession of  controlled dangerous substance (cocaine) with  intent"
+            ],
+            "answer_start": [
+                2
+            ]
+        }
+    },
+    {
+        "context": "possession of a  controlled substance  with intent to deliver  more than 4 grams  less than 200 grams",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "possession of a  controlled substance  with intent to deliver  more than 4 grams  less than 200 grams"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "possession with  intent to distribute  a controlled  substance within  1,000 feet of a  school/",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "possession with  intent to distribute  a controlled  substance within  1,000 feet of a  school"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "possession of a controlled substance pr with intent to  manufacture or deliver/  to",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "possession of a controlled substance pr with intent to  manufacture or deliver"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "possession of a  controlled substance:  amphetamine, with  intent to deliver  35047a",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "possession of a  controlled substance:  amphetamine, with  intent to deliver"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "08 pleseim of an assst relpr vio relre sch co sen w nu possession with intent  to distribute a quantity  of a mixture and  substance containing a  detectable amount of  fentanyl; and a  quantity of a mixture  and substance  containing a  detectable amount of  cocaine base/",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "possession with intent  to distribute a quantity  of a mixture and  substance containing a  detectable amount of  fentanyl; and a  quantity of a mixture  and substance  containing a  detectable amount of  cocaine base"
+            ],
+            "answer_start": [
+                55
+            ]
+        }
+    },
+    {
+        "context": "controlled dangerous  substance \u00e2\u20ac\u201c  manufacture/distribute  /possession with intent  to distribute marijuana  less than 10 ounces;",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "controlled dangerous  substance \u00e2\u20ac\u201c  manufacture/distribute  /possession with intent  to distribute marijuana  less than 10 ounces"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "controlled dangerous  substance \u00e2\u20ac\u201c  manufacture/distribute  /possession with intent  to distribute marijuana  less than 10 ounces;",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "controlled dangerous  substance \u00e2\u20ac\u201c  manufacture/distribute  /possession with intent  to distribute marijuana  less than 10 ounces"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "kilograms of cocaine  within 1,000 feet of a  protected location, in  violation of title criminal case. no.  10-245-20 (fab)  se of yeco of (tse rev se yeex th the plea agreement stipula a seller within the drug traff et quantity amounts of heroin tiple kilograms of said drugs w he plea agreement, ms. valle-d e possessed with intent to distrib ilograms of cocaine.  017, the us probation office fil release alleging the defendant stances. on august 10, 2017, th aring conceding to probable c ith persons engaged in crimina and violation of condition no.  aw enforcement. on decembe she was sentenced to time-ser 14",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "kilograms of cocaine  within 1,000 feet of a  protected location, in  violation of title criminal case"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "unlawful possession of  a controlled substance  with the intent to  deliver, to-wit: cocaine  4 grams  f-0940895",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "unlawful possession of  a controlled substance  with the intent to  deliver, to-wit: cocaine  4 grams"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "possession of cocaine  (1 to 4 grams) with  intent to deliver,  felony, hsc  (c)/",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "possession of cocaine  (1 to 4 grams) with  intent to deliver,  felony"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": ": possession of controlled dangerous substance with intent to  inc distribute/",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "possession of controlled dangerous substance with intent to  inc distribute"
+            ],
+            "answer_start": [
+                2
+            ]
+        }
+    },
+    {
+        "context": "possession of a  controlled substance,  to-wit: cocaine, with  intent to deliver 200  grams or more but less  than 400 grams, as  reduced from 400  grams or more - felony",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "possession of a  controlled substance,  to-wit: cocaine, with  intent to deliver 200  grams or more but less  than 400 grams"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "controlled dangerous  substance: possess  with intent distribute",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "controlled dangerous  substance: possess  with intent distribute"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "possession of a listed  chemical, to wit:  iodine, a list 2  chemical, with intent  to manufacture  methamphetamine- felony",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "possession of a listed  chemical, to wit:  iodine, a list 2  chemical, with intent  to manufacture  methamphetamine- felony"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": ": criminal  possession controlled  substance-3rd degree:  narcotics drug intent  to sell  criminal possession  controlled  substance/narcotic  criminal sale  controlled substance- 3rd:narcotic drug pro dri su 7/3 di - 7",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "criminal  possession controlled  substance-3rd degree:  narcotics drug intent  to sell  criminal possession  controlled  substance/narcotic  criminal sale  controlled substance- 3rd:narcotic drug"
+            ],
+            "answer_start": [
+                2
+            ]
+        }
+    },
+    {
+        "context": ": criminal  possession of a  controlled substance -  3rd: narcotic drug  with intent to sell  - felony (felony)  5",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "criminal  possession of a  controlled substance -  3rd: narcotic drug  with intent to sell  - felony"
+            ],
+            "answer_start": [
+                2
+            ]
+        }
+    },
+    {
+        "context": ": possession of with intent  to dist c/substance  - felony (felony);,",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "possession of with intent  to dist c/substance  - felony"
+            ],
+            "answer_start": [
+                2
+            ]
+        }
+    },
+    {
+        "context": ": possession of  controlled dangerous substance (cocaine) with  intent,",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "possession of  controlled dangerous substance (cocaine) with  intent"
+            ],
+            "answer_start": [
+                2
+            ]
+        }
+    },
+    {
+        "context": "controlled dangerous  substance: possession  with intent to  manufacture,  distribute, dispense/",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "controlled dangerous  substance: possession  with intent to  manufacture,  distribute, dispense"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "unlawful possession of  a controlled substance  with the intent to  deliver, to-wit: cocaine  4 grams  f-0940895",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "unlawful possession of  a controlled substance  with the intent to  deliver, to-wit: cocaine  4 grams"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "possession of cocaine  (1 to 4 grams) with  intent to deliver,  felony, hsc  (c)/",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "possession of cocaine  (1 to 4 grams) with  intent to deliver,  felony"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": ": criminal  possession of a  controlled substance -  3rd: narcotic drug  with intent to sell  - felony (felony) ,",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "criminal  possession of a  controlled substance -  3rd: narcotic drug  with intent to sell  - felony"
+            ],
+            "answer_start": [
+                2
+            ]
+        }
+    },
+    {
+        "context": ": possession of  controlled dangerous substance (cocaine) with  intent,",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "possession of  controlled dangerous substance (cocaine) with  intent"
+            ],
+            "answer_start": [
+                2
+            ]
+        }
+    },
+    {
+        "context": "controlled dangerous  substance: possession  with intent to  manufacture,  distribute, dispense/",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "controlled dangerous  substance: possession  with intent to  manufacture,  distribute, dispense"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "possession of a  controlled substance  with intent to deliver  more than 4 grams  less than 200 grams",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "possession of a  controlled substance  with intent to deliver  more than 4 grams  less than 200 grams"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": ":  accessory after the  fact to possession of  heroin with the intent  to distribute - felony",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "accessory after the  fact to possession of  heroin with the intent  to distribute - felony"
+            ],
+            "answer_start": [
+                3
+            ]
+        }
+    },
+    {
+        "context": "operating motor  vehicle.10 of 1%  alcohol/",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "operating motor  vehicle.10 of 1%  alcohol"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "07 ser ye unviovio drive w/.08% blood alcohol content or  higher",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "drive w/.08% blood alcohol content or  higher"
+            ],
+            "answer_start": [
+                19
+            ]
+        }
+    },
+    {
+        "context": "reckless driving  (alcohol related)  (m)/,",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "reckless driving  (alcohol related)"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "operating motor  vehicle with .08 of 1%  alcohol or more in  blood pr un pr on",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "operating motor  vehicle with .08 of 1%  alcohol or more in  blood"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "operating motor  vehicle .10 of 1%  alcohol/",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "operating motor  vehicle .10 of 1%  alcohol"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "controlled substances delivery/manufacture  jai (narcotic or cocaine)  pr less than 50 grams/",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "controlled substances delivery/manufacture  jai (narcotic or cocaine)  pr less than 50 grams"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "03 se im 5 y  co03 re filvio rev fohehem sehehehehehehehehem se manufacture/delivery  of a controlled  substance: cocaine  - felony",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "manufacture/delivery  of a controlled  substance: cocaine  - felony"
+            ],
+            "answer_start": [
+                64
+            ]
+        }
+    },
+    {
+        "context": "03 se im 5 y  co03 re filvio rev fohehem sehehehehehehe manufacture/delivery  of a controlled  substance: cocaine  - felony",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "manufacture/delivery  of a controlled  substance: cocaine  - felony"
+            ],
+            "answer_start": [
+                56
+            ]
+        }
+    },
+    {
+        "context": "controlled dangerous substance/analog \u00e2\u20ac\u201c  distribute on/near  school property/",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "controlled dangerous substance/analog \u00e2\u20ac\u201c  distribute on/near  school property"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "battery: touch or  strike/",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "battery: touch or  strike"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": ": domestic assault  2nd degree- felony (f)",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "domestic assault  2nd degree- felony"
+            ],
+            "answer_start": [
+                2
+            ]
+        }
+    },
+    {
+        "context": "assault on a public  servant - felony",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "assault on a public  servant - felony"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "assault fam/house  member impede  breath/circulation- felony",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "assault fam/house  member impede  breath/circulation- felony"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "assault on a federal  officer/",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "assault on a federal  officer"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": ": assault(f)",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "assault"
+            ],
+            "answer_start": [
+                2
+            ]
+        }
+    },
+    {
+        "context": "assault on a  federal officer ,",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "assault on a  federal officer"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "third degree assault \u00e2\u20ac\u201c  know/reckless cause  injury",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "third degree assault \u00e2\u20ac\u201c  know/reckless cause  injury"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": ":  corporal injury to  spouse or cohabitant  (misd.)(",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "corporal injury to  spouse or cohabitant"
+            ],
+            "answer_start": [
+                3
+            ]
+        }
+    },
+    {
+        "context": "second degree  assault - drugging  victim - felony",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "second degree  assault - drugging  victim - felony"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": ": domestic assault  \u00e2\u20ac\u201c 1st  degree- felony (f)",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "domestic assault  \u00e2\u20ac\u201c 1st  degree- felony"
+            ],
+            "answer_start": [
+                2
+            ]
+        }
+    },
+    {
+        "context": "force/assault  with a deadly weapon  not firearm great  bodily injury likely  - felony (felony)/",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "force/assault  with a deadly weapon  not firearm great  bodily injury likely  - felony"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": ": ,  force/assault with a  deadly weapon not  firearm - great bodily  inj. likely",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "force/assault with a  deadly weapon not  firearm - great bodily  inj. likely"
+            ],
+            "answer_start": [
+                5
+            ]
+        }
+    },
+    {
+        "context": ": threat to  commit crime  (assault & battery with  dangerous weapon -  gun),",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "threat to  commit crime  (assault & battery with  dangerous weapon -  gun)"
+            ],
+            "answer_start": [
+                2
+            ]
+        }
+    },
+    {
+        "context": ": assault on law  enforcement officer  second degree- felony (f),",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "assault on law  enforcement officer  second degree- felony"
+            ],
+            "answer_start": [
+                2
+            ]
+        }
+    },
+    {
+        "context": "agg assault  date/family/house  w/weapon;",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "agg assault  date/family/house  w/weapon"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": ": aggravated  unlawful use of a  weapon/",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "aggravated  unlawful use of a  weapon"
+            ],
+            "answer_start": [
+                2
+            ]
+        }
+    },
+    {
+        "context": ": aggravated  unlawful use of a  weapon/",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "aggravated  unlawful use of a  weapon"
+            ],
+            "answer_start": [
+                2
+            ]
+        }
+    },
+    {
+        "context": "assault with intent to  rob while unarmed/",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "assault with intent to  rob while unarmed"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "possession of  firearm, ammunition,  or electric weapon by  convicted felon; ,",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "possession of  firearm, ammunition,  or electric weapon by  convicted felon"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "force/assault with a  deadly weapon not  firearm: great bodily  injury - felony",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "force/assault with a  deadly weapon not  firearm: great bodily  injury - felony"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "battery of a person  over 65 years of age  - felony (felony)/,",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "battery of a person  over 65 years of age  - felony"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "assault and battery  of a police officer  - felony (felony),",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "assault and battery  of a police officer  - felony"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "domestic battery -  physical contact,  cr. no. 07120635501",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "domestic battery -  physical contact"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "vehicular assault  (f)  (,",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "vehicular assault"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": ": partner or family  member assault  - felony (felony)",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "partner or family  member assault  - felony"
+            ],
+            "answer_start": [
+                2
+            ]
+        }
+    },
+    {
+        "context": "intoxication assault  - felony",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "intoxication assault  - felony"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "assault-4th degree,  domestic violence  (minor injury)",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "assault-4th degree,  domestic violence  (minor injury)"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "battery on a household  member - felony",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "battery on a household  member - felony"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "attempted second degree  assault on peace officer  - felony",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "attempted second degree  assault on peace officer  - felony"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "domestic violence- knowingly cause  physical harm/",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "domestic violence- knowingly cause  physical harm"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "force/assault with  deadly weapon not  firearm: great bodily  injury likely",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "force/assault with  deadly weapon not  firearm: great bodily  injury likely"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "assault with deadly  weapon not firearm:  great bodily injury- felony",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "assault with deadly  weapon not firearm:  great bodily injury- felony"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": ": violation of  protection order ,",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "violation of  protection order"
+            ],
+            "answer_start": [
+                2
+            ]
+        }
+    },
+    {
+        "context": ": ,  corporal injury to  spouse/cohab./child's  parent with prior  los angeles, ca  cacj  o court records, avalo itant conviction in los ang iminal conduct).  ,",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "corporal injury to  spouse/cohab./child's  parent"
+            ],
+            "answer_start": [
+                5
+            ]
+        }
+    },
+    {
+        "context": "assault by prisoner  (), felony/",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "assault by prisoner  (), felony"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "-  force/assault with  deadly weapon not  firearm: great bodily  injury likely, felony/",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "force/assault with  deadly weapon not  firearm: great bodily  injury likely, felony"
+            ],
+            "answer_start": [
+                3
+            ]
+        }
+    },
+    {
+        "context": ": domestic assault  2nd degree- felony (f)",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "domestic assault  2nd degree- felony"
+            ],
+            "answer_start": [
+                2
+            ]
+        }
+    },
+    {
+        "context": "battery or threat to  judge, prosecutor or  law enforcement  officer - felony",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "battery or threat to  judge, prosecutor or  law enforcement  officer - felony"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": ": assault with  intent to rob while  armed/",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "assault with  intent to rob while  armed"
+            ],
+            "answer_start": [
+                2
+            ]
+        }
+    },
+    {
+        "context": ": driving  with suspended  license/",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "driving  with suspended  license"
+            ],
+            "answer_start": [
+                2
+            ]
+        }
+    },
+    {
+        "context": "assault with deadly  weapon, not firearm -  great bodily injury ,",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "assault with deadly  weapon, not firearm -  great bodily injury"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "battery on a law  enforcement officer  - felony",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "battery on a law  enforcement officer  - felony"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "burglary of a  structure/conveyance:  involving assault or  battery - felony",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "burglary of a  structure/conveyance:  involving assault or  battery - felony"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    },
+    {
+        "context": "assault on a public  servant - felony",
+        "question": "what offense was committed?",
+        "answers": {
+            "text": [
+                "assault on a public  servant - felony"
+            ],
+            "answer_start": [
+                0
+            ]
+        }
+    }
+]
