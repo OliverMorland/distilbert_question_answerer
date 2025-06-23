@@ -57,7 +57,7 @@ if __name__ == "__main__":
     tokenizer = DistilBertTokenizerFast.from_pretrained(model_to_train)
 
     # Load your custom dataset
-    dataset = load_dataset('json', data_files={'train': 'datasets/combined_dataset.json'})
+    dataset = load_dataset('json', data_files={'train': 'datasets/combined_dataset_3.json'})
 
     # Apply preprocessing to your dataset
     tokenized_dataset = dataset.map(preprocess_function, batched=True,
@@ -84,6 +84,6 @@ if __name__ == "__main__":
     trainer.train()
 
     # Save the fine-tuned model
-    model_path = 'psr_qa_fine_tuned_model'
+    model_path = 'psr_qa_fine_tuned_model_3'
     trainer.save_model(model_path)
     tokenizer.save_pretrained(model_path)

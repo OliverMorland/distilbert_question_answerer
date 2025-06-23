@@ -7,11 +7,11 @@ print(os.getcwd())
 print("Directories: " + str(directories))
 
 # Load dataset 1
-with open('datasets/courthouse_dataset.json', 'r', encoding='utf-8') as f1:
+with open('datasets/combined_dataset_2.json', 'r', encoding='utf-8') as f1:
     dataset1 = json.load(f1)
 
 # Load dataset 2
-with open('datasets/qa_dataset_2.json', 'r', encoding='utf-8') as f2:
+with open('datasets/trafficking_dui_assault_examples.json', 'r', encoding='utf-8') as f2:
     dataset2 = json.load(f2)
 
 # Combine the datasets
@@ -21,7 +21,8 @@ combined_dataset = dataset1 + dataset2
 random.shuffle(combined_dataset)
 
 # Save the shuffled dataset
-with open('datasets/combined_dataset.json', 'w', encoding='utf-8') as fout:
+new_dataset_file = 'datasets/combined_dataset_3.json'
+with open('datasets/combined_dataset_3.json', 'w', encoding='utf-8') as fout:
     json.dump(combined_dataset, fout, ensure_ascii=False, indent=4)
 
-print(f"Combined dataset with {len(combined_dataset)} entries saved to 'combined_dataset.json'.")
+print(f"Combined dataset with {len(combined_dataset)} entries saved to '{new_dataset_file}'.")

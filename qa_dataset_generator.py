@@ -9,8 +9,8 @@ import json
 import re
 
 # Define the input and output file names
-input_file = "text_docs/extra_question_answerer_dataset.txt"
-output_file = "question_answerer/datasets/extra_examples.json"
+input_file = "trafficking_dui_assault_training_examples.txt"
+output_file = "datasets/trafficking_dui_assault_examples.json"
 
 # Function to convert the input text data to the required JSON format using regex
 def create_qa_dataset(input_file, output_file):
@@ -31,7 +31,7 @@ def create_qa_dataset(input_file, output_file):
         # Create the JSON entry for each context-answer pair
         dataset.append({
             "context": context.strip(),
-            "question": "what is the courthouse address?",  # This can be customized
+            "question": "what offense was committed?",  # This can be customized
             "answers": {
                 "text": [answer.strip()],
                 "answer_start": [context.find(answer.strip())]
