@@ -1,0 +1,493 @@
+CONTEXT:
+ controlled substance- possession with intent  pro to deliver less than  50 grams of cocaine/
+
+ANSWER:
+ controlled substance - possession with intent pro to deliver less than 50 grams of cocaine
+
+CONTEXT:
+: possession of  controlled dangerous substance (cocaine) with  intent,
+
+ANSWER:
+possession of  controlled dangerous substance (cocaine) with  intent,
+
+CONTEXT:
+ possession of a  controlled substance  with intent to deliver  more than 4 grams  less than 200 grams 
+
+ANSWER:
+ possession of a controlled substance with intent to deliver more than 4 grams less than 200 grams
+
+CONTEXT:
+possession with  intent to distribute  a controlled  substance, and  possession with  intent to distribute  a controlled  substance within  1,000 feet of a  school/
+
+ANSWER:
+possession with  intent to distribute  a controlled  substance, and  possession with  intent to distribute  a controlled  substance within  1,000 feet of a  school
+
+CONTEXT:
+ possession of a controlled substance pr with intent to  manufacture or deliver/  to 
+
+ANSWER:
+ possession of a controlled substance pr with intent to manufacture or deliver
+
+CONTEXT:
+ possession of a  controlled substance:  amphetamine, with  intent to deliver  35047a  
+
+ANSWER:
+possession of a  controlled substance:  amphetamine, with  intent to deliver
+
+CONTEXT:
+ 08 pleseim of an assst relpr vio relre sch co sen w nu possession with intent  to distribute a quantity  of a mixture and  substance containing a  detectable amount of  fentanyl; and a  quantity of a mixture  and substance  containing a  detectable amount of  cocaine base/  
+
+ANSWER:
+ possession with intent to distribute a quantity of a mixture and substance containing a detectable amount of fentanyl
+
+CONTEXT:
+ controlled dangerous  substance –  manufacture/distribute  /possession with intent  to distribute marijuana  less than 10 ounces;  
+
+ANSWER:
+controlled dangerous  substance –  manufacture/distribute  /possession with intent  to distribute marijuana  less than 10 ounces
+
+CONTEXT:
+ controlled dangerous  substance –  manufacture/distribute  /possession with intent  to distribute marijuana  less than 10 ounces;  
+
+ANSWER:
+controlled dangerous  substance –  manufacture/distribute  /possession with intent  to distribute marijuana  less than 10 ounces
+
+CONTEXT:
+ unlawful possession of  a controlled substance  with the intent to  deliver, to-wit: cocaine  4 grams  f-0940895  
+
+ANSWER:
+unlawful possession of  a controlled substance  with the intent to  deliver, to-wit: cocaine  4 grams
+
+CONTEXT:
+ possession of cocaine  (1 to 4 grams) with  intent to deliver,  felony, hsc  (c)/  
+
+ANSWER:
+possession of cocaine  (1 to 4 grams) with  intent to deliver,  felony,
+
+CONTEXT:
+ : possession of controlled dangerous substance with intent to  inc distribute/
+
+ANSWER:
+possession of controlled dangerous substance with intent to inc distribute
+
+CONTEXT:
+ possession of a  controlled substance,  to-wit: cocaine, with  intent to deliver 200  grams or more but less  than 400 grams, as  reduced from 400  grams or more - felony 
+
+ANSWER:
+possession of a  controlled substance,  to-wit: cocaine, with  intent to deliver 200  grams or more but less  than 400 grams, as  reduced from 400  grams or more - felony
+
+CONTEXT:
+ controlled dangerous  substance: possess  with intent distribute  
+
+ANSWER:
+controlled dangerous  substance: possess  with intent distribute
+
+CONTEXT:
+ possession of a listed  chemical, to wit:  iodine, a list 2  chemical, with intent  to manufacture  methamphetamine- felony 
+
+ANSWER:
+possession of a listed  chemical, to wit:  iodine, a list 2  chemical, with intent  to manufacture  methamphetamine- felony
+
+CONTEXT:
+ : criminal  possession controlled  substance-3rd degree:  narcotics drug intent  to sell  criminal possession  controlled  substance/narcotic  criminal sale  controlled substance- 3rd:narcotic drug pro dri su 7/3 di - 7
+
+ANSWER:
+criminal  possession controlled  substance-3rd degree:  narcotics drug intent  to sell  criminal possession  controlled  substance/narcotic  criminal sale  controlled substance- 3rd:narcotic drug
+
+CONTEXT:
+: criminal  possession of a  controlled substance -  3rd: narcotic drug  with intent to sell  - felony (felony)  5
+
+ANSWER:
+criminal  possession of a  controlled substance -  3rd: narcotic drug  with intent to sell  - felony
+
+CONTEXT:
+ : possession of with intent  to dist c/substance  - felony (felony);
+
+ANSWER:
+ possession of with intent to dist c / substance - felony
+
+CONTEXT:
+: possession of  controlled dangerous substance (cocaine) with  intent,
+
+ANSWER:
+possession of  controlled dangerous substance (cocaine) with  intent
+
+CONTEXT:
+ controlled dangerous  substance: possession  with intent to  manufacture,  distribute, dispense/  
+
+ANSWER:
+controlled dangerous  substance: possession  with intent to  manufacture,  distribute, dispense
+
+CONTEXT:
+ unlawful possession of  a controlled substance  with the intent to  deliver, to-wit: cocaine  4 grams  f-0940895  
+
+ANSWER:
+ unlawful possession of a controlled substance with the intent to deliver
+
+CONTEXT:
+ possession of cocaine  (1 to 4 grams) with  intent to deliver,  felony, hsc  (c)/  
+
+ANSWER:
+possession of cocaine  (1 to 4 grams) with  intent to deliver,  felony
+
+CONTEXT:
+: criminal  possession of a  controlled substance -  3rd: narcotic drug  with intent to sell  - felony (felony) ,
+
+ANSWER:
+criminal  possession of a  controlled substance -  3rd: narcotic drug  with intent to sell  - felony
+
+CONTEXT:
+: possession of  controlled dangerous substance (cocaine) with  intent,
+
+ANSWER:
+possession of  controlled dangerous substance (cocaine) with  intent
+
+CONTEXT:
+ controlled dangerous  substance: possession  with intent to  manufacture,  distribute, dispense/  
+
+ANSWER:
+controlled dangerous  substance: possession  with intent to  manufacture,  distribute, dispense
+
+CONTEXT:
+ possession of a  controlled substance  with intent to deliver  more than 4 grams  less than 200 grams 
+
+ANSWER:
+ possession of a controlled substance with intent to deliver more than 4 grams less than 200 grams
+
+CONTEXT:
+ :  accessory after the  fact to possession of  heroin with the intent  to distribute - felony 
+
+ANSWER:
+accessory after the  fact to possession of  heroin with the intent  to distribute - felony
+
+CONTEXT:
+ operating motor  vehicle .10 of 1%  alcohol/
+
+ANSWER:
+operating motor  vehicle .10 of 1%  alcohol
+
+CONTEXT:
+ 07 ser ye unviovio drive w/.08% blood alcohol content or  higher
+
+ANSWER:
+drive w/.08% blood alcohol content or  higher
+
+CONTEXT:
+reckless driving  (alcohol related)  (m)/,
+
+ANSWER:
+reckless driving  (alcohol related)
+
+CONTEXT:
+ operating motor  vehicle with.08 of 1%  alcohol or more in  blood pr un pr on 
+
+ANSWER:
+ operating motor vehicle with . 08 of 1 % alcohol or more in blood
+
+CONTEXT:
+ operating motor  vehicle.10 of 1%  alcohol/  
+
+ANSWER:
+operating motor  vehicle.10 of 1%  alcohol
+
+CONTEXT:
+ controlled substances - 04 delivery/manufacture  jai (narcotic or cocaine)  pr less than 50 grams/  
+
+ANSWER:
+controlled substances - 04 delivery/manufacture
+
+CONTEXT:
+ 03 se im 5 y  co03 re filvio rev fohehem sehehehehehehehehem se manufacture/delivery  of a controlled  substance: cocaine  - felony 
+
+ANSWER:
+manufacture/delivery  of a controlled  substance: cocaine  - felony
+
+CONTEXT:
+ 03 se im 5 y  co03 re filvio rev fohehem sehehehehehehe manufacture/delivery  of a controlled  substance: cocaine  - felony
+
+ANSWER:
+manufacture/delivery  of a controlled  substance: cocaine  - felony
+
+CONTEXT:
+ controlled dangerous substance/analog –  distribute on/near  school property/  
+
+ANSWER:
+controlled dangerous substance/analog –  distribute on/near  school property
+
+CONTEXT:
+ battery: touch or  strike/  
+
+ANSWER:
+ battery : touch or strike
+
+CONTEXT:
+ : domestic assault  2nd degree- felony (f)
+
+ANSWER:
+ domestic assault  2nd degree- felony
+
+CONTEXT:
+ assault on a public  servant - felony 
+
+ANSWER:
+assault on a public  servant - felony
+
+CONTEXT:
+ assault fam/house  member impede  breath/circulation- felony 
+
+ANSWER:
+assault fam/house  member impede  breath/circulation- felony
+
+CONTEXT:
+ assault on a federal  officer/  
+
+ANSWER:
+ assault on a federal officer
+
+CONTEXT:
+ : failure to  comply with an order  or signal of police  officer/,
+
+ANSWER:
+ failure to comply with an order or signal of police officer
+
+CONTEXT:
+ : failure to  comply with an order  or signal of police  officer/,
+
+ANSWER:
+ failure to comply with an order or signal of police officer
+
+CONTEXT:
+ assault on a  federal officer ,
+
+ANSWER:
+ assault on a federal officer
+
+CONTEXT:
+ third degree assault –  know/reckless cause  injury  
+
+ANSWER:
+ third degree assault – know / reckless cause injury
+
+CONTEXT:
+ :  corporal injury to  spouse or cohabitant  (misd.)(
+
+ANSWER:
+ corporal injury to spouse or cohabitant
+
+CONTEXT:
+ battery- touch or  strike/  
+
+ANSWER:
+ battery - touch or strike
+
+CONTEXT:
+ second degree  assault - drugging  victim - felony 
+
+ANSWER:
+second degree  assault - drugging  victim - felony
+
+CONTEXT:
+ : domestic assault  – 1st  degree- felony (f)
+
+ANSWER:
+domestic assault  – 1st  degree- felony
+
+CONTEXT:
+ force/assault  with a deadly weapon  not firearm great  bodily injury likely  - felony (felony)/
+
+ANSWER:
+force/assault  with a deadly weapon  not firearm great  bodily injury likely  - felony
+
+CONTEXT:
+ : ,  force/assault with a  deadly weapon not  firearm - great bodily  injury likely
+
+ANSWER:
+force/assault with a  deadly weapon not  firearm - great bodily  injury likely
+
+CONTEXT:
+ : threat to  commit crime  (assault & battery with  dangerous weapon -  gun),
+
+ANSWER:
+threat to  commit crime  (assault & battery with  dangerous weapon -  gun)
+
+CONTEXT:
+: assault on law  enforcement officer  second degree- felony (f),
+
+ANSWER:
+assault on law  enforcement officer  second degree- felony
+
+CONTEXT:
+ agg assault  date/family/house  w/weapon; 
+
+ANSWER:
+ agg assault date / family / house w / weapon
+
+CONTEXT:
+ : aggravated  unlawful use of a  weapon/
+
+ANSWER:
+ aggravated unlawful use of a weapon
+
+CONTEXT:
+ : aggravated  unlawful use of a  weapon/
+
+ANSWER:
+ aggravated unlawful use of a weapon
+
+CONTEXT:
+ assault with intent to  rob while unarmed/  
+
+ANSWER:
+ assault with intent to rob while unarmed
+
+CONTEXT:
+ possession of  firearm, ammunition,  or electric weapon by  convicted felon; ,
+
+ANSWER:
+ possession of firearm , ammunition , or electric weapon by convicted felon
+
+CONTEXT:
+ force/assault with a  deadly weapon not  firearm: great bodily  injury - felony 
+
+ANSWER:
+ force/assault with a  deadly weapon not  firearm: great bodily  injury - felony
+
+
+CONTEXT:
+ battery of a person  over 65 years of age  - felony (felony)/
+
+ANSWER:
+battery of a person over 65 years of age - felony
+
+CONTEXT:
+ assault and battery  of a police officer  - felony (felony),
+
+ANSWER:
+assault and battery  of a police officer  - felony
+
+CONTEXT:
+ domestic battery -  physical contact,  cr. no. 07120635501  
+
+ANSWER:
+ domestic battery - physical contact
+
+CONTEXT:
+ vehicular assault  (f)  (,
+
+ANSWER:
+ vehicular assault
+
+CONTEXT:
+ : partner or family  member assault  - felony (felony)
+
+ANSWER:
+partner or family  member assault  - felony
+
+CONTEXT:
+ intoxication assault  - felony 
+
+ANSWER:
+intoxication assault  - felony
+
+CONTEXT:
+ assault-4th degree,  domestic violence  (minor injury)  
+
+ANSWER:
+assault-4th degree,  domestic violence  (minor injury)
+
+CONTEXT:
+ battery on a household  member - felony 
+
+ANSWER:
+battery on a household  member - felony
+
+CONTEXT:
+ attempted second degree  assault on peace officer  - felony 
+
+ANSWER:
+attempted second degree  assault on peace officer  - felony
+
+CONTEXT:
+ domestic violence- knowingly cause  physical harm/  
+
+ANSWER:
+ domestic violence- knowingly cause  physical harm
+
+CONTEXT:
+ force/assault with  deadly weapon not  firearm: great bodily  injury likely  
+
+ANSWER:
+ force/assault with  deadly weapon not  firearm: great bodily  injury likely
+
+CONTEXT:
+ assault with deadly  weapon not firearm:  great bodily injury- felony  
+
+ANSWER:
+ assault with deadly  weapon not firearm:  great bodily injury- felony
+
+CONTEXT:
+ : violation of  protection order ,
+
+ANSWER:
+ violation of protection order
+
+CONTEXT:
+ assault by prisoner  (), felony/  
+
+ANSWER:
+ assault by prisoner
+
+CONTEXT:
+ -  force/assault with  deadly weapon not  firearm: great bodily  injury likely, felony/  
+
+ANSWER:
+force/assault with  deadly weapon not  firearm: great bodily  injury likely, felony
+
+CONTEXT:
+ : domestic assault  2nd degree- felony (f)
+
+ANSWER:
+domestic assault  2nd degree- felony
+
+CONTEXT:
+ battery or threat to  judge, prosecutor or  law enforcement  officer - felony 
+
+ANSWER:
+battery or threat to  judge, prosecutor or  law enforcement  officer - felony
+
+CONTEXT:
+ : assault with  intent to rob while  armed/
+
+ANSWER:
+assault with  intent to rob while  armed
+
+CONTEXT:
+ : driving  with suspended  license/ 
+
+ANSWER:
+ driving with suspended license
+
+CONTEXT:
+ assault with deadly  weapon, not firearm -  great bodily injury ,
+
+ANSWER:
+ assault with deadly weapon , not firearm - great bodily injury
+
+CONTEXT:
+ battery on a law  enforcement officer  - felony 
+
+ANSWER:
+ battery on a law  enforcement officer  - felony
+
+CONTEXT:
+ burglary of a  structure/conveyance:  involving assault or  battery - felony 
+
+ANSWER:
+ burglary of a structure / conveyance : involving assault or battery - felony
+
+CONTEXT:
+ assault on a public  servant - felony 
+
+ANSWER:
+ assault on a public  servant - felony
+
